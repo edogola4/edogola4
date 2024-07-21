@@ -80,7 +80,7 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edogola4&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edogola4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDOGOLA4&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&locale=en" alt="EdwinOgola" /></p>
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edogola4&theme=algolia" alt="EdwinOgola" /></p>
@@ -88,5 +88,3 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=edogola4&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="EdwinOgola's Trophies" />
 </p>
-
-
