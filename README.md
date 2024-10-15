@@ -21,7 +21,7 @@
 
 
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+there+I'm+Edwin+%F0%9F%91%8B;👨‍💻Computer+Science+Graduate+UoN;👨‍💻Graduate+from+ALX+SE;Graduate+Moringa+School;👨‍💻Software+Engineer;👨‍💻Web+Developer;Problem+Solver" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+there+I'm+Edwin+%F0%9F%91%8B;👨‍💻Computer+Science+Graduate+UoN;👨‍💻Graduate+from+ALX+SE;Graduate+Moringa+School;Curently+at+SomaKodi;👨‍💻Software+Engineer;👨‍💻Web+Developer;Problem+Solver" alt="Headline" />
 </div>
 </div>
 
