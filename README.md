@@ -7,7 +7,7 @@
   </a>
   <a href="https://x.com/BrandonOgola">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=black" alt="X Badge"/>
-    <i class="fa-brands fa-x-twitter"></i>
+  
 </a>
 
   </a>
@@ -17,6 +17,7 @@
 <p>Kenya</p>
 <a href="https://user-badge.committers.top/kenya/edogola4">
     <img src="https://user-badge.committers.top/kenya/EdwinOgola.svg" alt="EdwinOgola's Badge">
+  [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
 </a>
 
 
