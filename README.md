@@ -51,6 +51,12 @@ I am a Full Stack Developer and Software Engineer.Passionate about leveraging em
 
 - :zap: Active on **LeetCode** and always ready for coding challenges!
 
+### 🌐 Professional Portfolio:
+For a comprehensive view of my work and projects, check out my **professional portfolio** here 👇:
+
+<a href="https://brandon-2i82.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View-My%20Portfolio-32a852?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Link"/>
+</a>
 
 
 ## How to reach me:
