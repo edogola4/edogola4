@@ -17,7 +17,7 @@
 <p>Kenya</p>
 <a href="https://user-badge.committers.top/kenya/edogola4">
     <img src="https://user-badge.committers.top/kenya/EdwinOgola.svg" alt="EdwinOgola's Badge">
-  [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
+
 </a>
 
 
