@@ -7,6 +7,7 @@
   </a>
   <a href="https://x.com/BrandonOgola">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=black" alt="X Badge"/>
+    <i class="fa-brands fa-x-twitter"></i>
 </a>
 
   </a>
