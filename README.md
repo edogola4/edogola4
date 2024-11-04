@@ -4,27 +4,7 @@
   <span style="font-size: 1.1em; color: #333333;">I'm thrilled to have you here. Feel free to explore my projects and see what I’m working on! 😊</span>
 </h3>
 
-<style>
-  /* Animation for waving hand */
-  @keyframes wave {
-    0% { transform: rotate(0); }
-    20% { transform: rotate(-10deg); }
-    40% { transform: rotate(10deg); }
-    60% { transform: rotate(-10deg); }
-    80% { transform: rotate(10deg); }
-    100% { transform: rotate(0); }
-  }
 
-  h3 span {
-    display: inline-block;
-    animation: fadeIn 2s ease-in;
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
 
 
 
