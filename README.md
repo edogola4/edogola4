@@ -1,6 +1,6 @@
 <!---GREETING--->
 <h3 align="center" >
-  Hello! Welcome to my Profile.<br> *****
+  Hello! Welcome to my Profile.<br> 
 </h3>
 
 <div id="header" align="center">
