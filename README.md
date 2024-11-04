@@ -1,8 +1,8 @@
 <!---GREETING--->
-<h3 align="center" style="color: #4A90E2; font-family: Arial, sans-serif;">
-  <span style="display: inline-block; animation: wave 1s infinite;">👋</span> Hello and Welcome to My Profile! <br>
-  <span style="font-size: 1.1em; color: #333333;">I'm thrilled to have you here. Feel free to explore my projects and see what I’m working on! 😊</span>
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;I'm+Excited+to+Share+My+Work+With+You!+😊;Feel+Free+to+Explore+My+Projects!" alt="Greeting" />
+</div>
+
 
 
 
