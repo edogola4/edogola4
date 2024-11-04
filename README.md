@@ -1,7 +1,9 @@
 <!---GREETING--->
-<h3 align="center" >
-  Hello! Welcome to my Profile.<br> 
+<h3 align="center">
+  👋 Hello and Welcome to My Profile! <br>
+  I'm glad to have you here. Feel free to explore and discover what I’m working on. 😊
 </h3>
+
 
 <div id="header" align="center">
   <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/>
