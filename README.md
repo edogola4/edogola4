@@ -6,8 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120"/>
-</div>
+  <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/>
 
 
  <div id="header">
