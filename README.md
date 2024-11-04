@@ -240,7 +240,12 @@ For a comprehensive view of my work and projects, check out my **professional po
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/edogola4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20edogola4@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+       <th colspan="7">
+  <a href="https://github.com/edogola4/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20edogola4@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=0A2E8B&vCenter=true&size=22" alt="Contact Information">
+  </a>
+</th>
+
       </tr>
 <td align="center">
 
