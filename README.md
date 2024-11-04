@@ -216,12 +216,12 @@ For a comprehensive view of my work and projects, check out my **professional po
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 <table>
 <tr>
 <td>
 <a href="https://github.com/edogola4/edogola4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Brandon's GitHub Stats" />
 </td>
 <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogola4&theme=highcontrast&layout=compact" />
@@ -241,7 +241,6 @@ For a comprehensive view of my work and projects, check out my **professional po
 <tr>
 <tr>
         <th colspan="7"><a href="https://github.com/edogola4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20edogola4@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=0A2E8B&vCenter=true&size=22"></a></th>
-
       </tr>
 <td align="center">
 
@@ -253,7 +252,7 @@ For a comprehensive view of my work and projects, check out my **professional po
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer Brandon Edwin Ogola" src="code.gif" width="350" height="190" />
+            <img align="right" alt="Developer Brandon Ogola" src="code.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
