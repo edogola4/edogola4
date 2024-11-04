@@ -264,10 +264,8 @@ For a comprehensive view of my work and projects, check out my **professional po
 </div>
 <div align="right">
   
-  ![Snake animation](https://github.com/edogola4/edogola4/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
 
-### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/edogola4/edogola4/) !
-
-<h1 align="center" style="color:#FC7300;">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐🌟 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h1>
+### 😊 Enjoying it here?..Show some ❤️ by starring🌟 some of my repositories!  <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/edogola4/edogola4/) !
