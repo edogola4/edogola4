@@ -219,8 +219,8 @@ For a comprehensive view of my work and projects, check out my **professional po
 <table>
 <tr>
 <td>
-<a href="https://github.com/omololevy/omololevy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+<a href="https://github.com/edogola4/edogola4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
