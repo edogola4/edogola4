@@ -215,18 +215,59 @@ For a comprehensive view of my work and projects, check out my **professional po
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=edogola4&theme=dracula)](https://git.io/streak-stats)
+### :fire ## 📊 GitHub Statistics
+<table>
+<tr>
+<td>
+<a href="https://github.com/omololevy/omololevy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+</td>
+<td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
+  </a>
+</td>
+</tr>
 
-[![Top Langs] <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edogola4&show_icons=true&locale=en&layout=compact" alt="EdwinOgola" /></p>
+<tr>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omololevy"/>
+</td>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omololevy"/>
+</td>
+</tr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&locale=en" alt="EdwinOgola" /></p>
+<tr>
+<tr>
+        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+      </tr>
+<td align="center">
 
 
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edogola4&theme=dark" alt="EdwinOgola" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=edogola4&theme=cobalt&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="EdwinOgola's Trophies" />
+
+</td>
+<td align="center">
+<p align="center">
 </p>
+            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+</td>
+</tr>
+</table>
+
+### The Pace:
+
+<div>  
+<img src="https://github-profile-trophy.vercel.app/?username=omololevy&margin-w=15&margin-h=15" />
+
+</div>
+<div align="right">
+  
+  ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/omololevy/omololevy/) !
 
 <h1 align="center" style="color:#FC7300;">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐🌟 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h1>
