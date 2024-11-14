@@ -244,7 +244,9 @@ For a comprehensive view of my work and projects, check out my **professional po
       </tr>
 <td align="center">
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edogola4&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
+
 
 
 
