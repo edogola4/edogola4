@@ -72,6 +72,7 @@ For a comprehensive view of my work and projects, check out my **professional po
 [![LinkedIn Badge](https://img.shields.io/badge/-Brandon_Edwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
 [![Gmail Badge](https://img.shields.io/badge/Email-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brandon14ogola@gmail.com)
 
+*I am open to new opportunities.*
 
 ---
 
