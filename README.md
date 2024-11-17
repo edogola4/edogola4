@@ -19,7 +19,7 @@
  <a href="https://x.com/BrandonOgola">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
-
+*I am open to new opportunities.*
   </a>
 </div>
 
