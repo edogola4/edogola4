@@ -19,10 +19,10 @@
  <a href="https://x.com/BrandonOgola">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
-*I am open to new opportunities.*
+
   </a>
 </div>
-
+*I am open to new opportunities.*
 <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt=""/>
 <p>Kenya</p>
 <a href="https://user-badge.committers.top/kenya/edogola4">
