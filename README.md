@@ -51,7 +51,7 @@ I am a Full Stack Developer. Passionate about leveraging emerging technologies s
 
 - 🌍 Based in **Nairobi, Kenya**.
 
-- :telescope: I'm a software engineer tranee at Somakodi School.
+- :telescope: I'm a software engineer trainee at Somakodi School.
   
 - 🧑‍💼: Previously a software engineer intern at REAL BIZ DIGITAL.
 
