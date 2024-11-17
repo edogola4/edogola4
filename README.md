@@ -58,7 +58,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 
 - :telescope: I'm a software engineer trainee at Somakodi School.
   
-- 🧑‍💼: Previously a software engineer intern at REAL BIZ DIGITAL.
+- 🧙 : Previously a software engineer intern at REAL BIZ DIGITAL.
 
 - :seedling: Exploring the world of AI and automation..
 
