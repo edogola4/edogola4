@@ -22,7 +22,7 @@
 
   </a>
 </div>
-*I am open to new opportunities.*
+
 <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt=""/>
 <p>Kenya</p>
 <a href="https://user-badge.committers.top/kenya/edogola4">
