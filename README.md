@@ -49,6 +49,11 @@
 ###  About Me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 I am a Full Stack Developer. Passionate about leveraging emerging technologies such as AI, machine learning, cloud computing, and automation. I enjoy solving complex technical challenges and continuously seek to push the boundaries of innovation in software development.
 
+The best approach is to pick the tech that's just right for the problem.
+
+Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
+
+
 - 🌍 Based in **Nairobi, Kenya**.
 
 - :telescope: I'm a software engineer trainee at Somakodi School.
