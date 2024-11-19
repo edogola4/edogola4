@@ -4,9 +4,9 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/>
+ <!-- <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/> -->
 
-
+<img align="" height="350" width="600" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="person coding">
 
  <div id="header">
   <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
-  <img align="" width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="person coding">
+  
 </div>
                                                                  ---
 
