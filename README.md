@@ -6,7 +6,7 @@
 <div id="header" align="center">
  <!-- <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/> -->
 
-<img align="" height="350" width="600" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="person coding">
+<img align="" height="125" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="person coding">
 
  <div id="header">
   <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
