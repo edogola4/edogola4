@@ -23,8 +23,6 @@
 
   </a>
 </div>
-
-
 <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt=""/>
 <p>Kenya</p>
 <a href="https://user-badge.committers.top/kenya/edogola4">
@@ -64,8 +62,6 @@ For a comprehensive view of my work and projects, check out my **professional po
 <a href="https://brandon-2i82.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/View-My%20Portfolio-32a852?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Link"/>
 </a>
-
-
 ## How to reach me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Brandon_Edwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
@@ -112,7 +108,6 @@ For a comprehensive view of my work and projects, check out my **professional po
       <td align="center" width=110>Markdown</td>
     </tr>
   </table>
-
   <table>
     <thead>
       <tr>
