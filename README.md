@@ -208,10 +208,6 @@ For a comprehensive view of my work and projects, check out my **professional po
     </tr>
   </table>
 </div>
-
-
-
-
 ---
 
 ## 📊 GitHub Statistics📜 
