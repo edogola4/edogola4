@@ -186,12 +186,14 @@ For a comprehensive view of my work and projects, check out my **professional po
       <td align="center" width=110>CodePen</td>
     </tr>
   </table>
+  
   <table>
     <thead>
       <tr>
         <th colspan="7">Operating Systems</th>
       </tr>
     </thead>
+    
     <tr>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
