@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;I'm+Excited+to+Share+My+Work+With+You!!+😊+.+.+.;Feel+Free+to+Explore+My+Projects;+And+see+what+I'm+working+on!+😊." alt="Greeting" />
 </div>
-
 <div id="header" align="center">
  <!-- <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/> -->
 
