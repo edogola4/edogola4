@@ -208,7 +208,7 @@ For a comprehensive view of my work and projects, check out my **professional po
 </div>
 ---
 
-## 📊 GitHub Statistics📜 
+## 📊 GitHub Statistics.📜 
 <table>
 <tr>
 <td>
