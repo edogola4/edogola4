@@ -267,3 +267,4 @@ For a comprehensive view of my work and projects, check out my **professional po
 </div>
 
 ## 😊 Enjoying it here?...Show some ❤️ by following me😊 and starring🌟 some of my repositories!  <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/edogola4/edogola4/) !
+![animated-gif](https://github.com/rahu1gg/rahu1gg/blob/main/assets/coding-animation.gif)
