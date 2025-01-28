@@ -44,6 +44,7 @@
 - Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
 🚢
 
+
 - 🌍 Based in **Nairobi, Kenya**.
 
 - :telescope: I'm a software engineer trainee at Somakodi School.
