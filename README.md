@@ -28,7 +28,7 @@
 
 </a>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Edwin+Ogola+👋;Full+Stack+Developer+🤓+%F0%9F%92%BB;Problem+Solver+🧠+🖋️;Software+Engineer+💻;AI+Enthusiast+🤖" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Edwin+Ogola+👋;Full+Stack+Developer+🤓+%F0%9F%92%BB;Problem+Solver+🧠+🖋️;Software+Engineer+💻;AI+Enthusiast+🤖." alt="Headline" />
 </div>
 
 <div align="center">
