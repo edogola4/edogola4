@@ -1,6 +1,7 @@
 <!---GREETING--->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;I'm+Excited+to+Share+My+Work+With+You!!+😊+.+.+.;Feel+Free+to+Explore+My+Projects;+And+see+what+I'm+working+on!+😊..." alt="Greeting" />
+  <!--<img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;I'm+Excited+to+Share+My+Work+With+You!!+😊+.+.+.;Feel+Free+to+Explore+My+Projects;+And+see+what+I'm+working+on!+😊..." alt="Greeting" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;Full+Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Solutions" alt="Greeting" />
 </div>
 <div id="header" align="center">
  <!-- <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/> -->
@@ -8,13 +9,13 @@
 <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
 
  <div id="header">
-  <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
+  <!-- <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>  -->
   
- <a href="mailto: edogola4@gmail.com">
+ <!-- <a href="mailto: edogola4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  </a> 
   
  <a href="https://x.com/BrandonOgola">
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
@@ -27,7 +28,28 @@
 <a href="https://user-badge.committers.top/kenya/edogola4">
     <img src="https://user-badge.committers.top/kenya/EdwinOgola.svg" alt="EdwinOgola's Badge">
 
-</a>
+</a>-->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;Full+Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Solutions" alt="Greeting" />
+  <img align="center" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation">
+  <div>
+    <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:edogola4@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://x.com/BrandonOgola">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://brandon-2i82.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-32a852?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="profile views"/>
+  <p>🇰🇪 Based in Nairobi, Kenya</p>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Edwin+Ogola+👋;Full+Stack+Developer+🤓+%F0%9F%92%BB;Problem+Solver+🧠+🖋️;Software+Engineer+💻;AI+Enthusiast+🤖." alt="Headline" />
 </div>
