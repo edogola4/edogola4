@@ -62,7 +62,7 @@
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
   
 </div> -->
-                                                                 
+ ---                                                                
 ###  About Me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 <!-- - I am a Full Stack Developer🏗️.... Passionate about leveraging emerging technologies such as AI, machine learning, cloud computing, and automation. I enjoy solving complex technical challenges and continuously seek to push the boundaries of innovation in software development🎭
 🚗
@@ -99,17 +99,17 @@ For a comprehensive view of my work and projects, check out my **professional po
 - **🧩 Problem Solver:** I enjoy tackling complex technical challenges
 - **🌱 Growth Mindset:** Continuously pushing the boundaries of innovation
 
-## How to reach me:
+<!-- ## How to reach me:
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Brandon_Edwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
 [![Gmail Badge](https://img.shields.io/badge/Email-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brandon14ogola@gmail.com)
 
-*I am open to new opportunities.*
+*I am open to new opportunities.* -->
 
----
+--- 
 
-
+<!--
 ## :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
@@ -245,7 +245,7 @@ For a comprehensive view of my work and projects, check out my **professional po
       <td align="center" width=110>Mac</td>
     </tr>
   </table>
-</div>
+</div> -->
 ---
 
 ## 📊 GitHub Statistics.📜 
