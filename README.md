@@ -31,7 +31,7 @@
 </a>-->
 <div align="center">
   
-  <img align="center" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation">
+ <!-- <img align="center" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation"> -->
   <div>
     <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
