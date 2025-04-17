@@ -343,12 +343,31 @@ For a comprehensive view of my work and projects, check out my **professional po
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edogola4&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
+---
+## 🤝 Let's Connect
+I'm currently open to new opportunities and collaborations. Feel free to reach out if you'd like to work together or just chat about technology!
+<div align="center">
+  <a href="mailto:edogola4@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
+    <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://brandon-2i82.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=22&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Closing" />
+</div>
 
 
 
 
 
 
+<!--
 
 ### The Pace:
 
@@ -364,3 +383,4 @@ For a comprehensive view of my work and projects, check out my **professional po
 
 ## 😊 Enjoying it here?...Show some ❤️ by following me😊 and starring🌟 some of my repositories!  <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/edogola4/edogola4/) !
 ![animated-gif](https://github.com/rahu1gg/rahu1gg/blob/main/assets/coding-animation.gif)
+-->
