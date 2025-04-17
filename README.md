@@ -297,7 +297,7 @@ For a comprehensive view of my work and projects, check out my **professional po
 ---
 
 ## 📊 GitHub Statistics.📜 
-<table>
+<!-- <table>
 <tr>
 <td>
 <a href="https://github.com/edogola4">
@@ -332,8 +332,16 @@ For a comprehensive view of my work and projects, check out my **professional po
             <img align="right" alt="Developer Brandon Ogola" src="code.gif" width="350" height="190" />
 </td>
 </tr>
-</table>
-
+</table>-->
+<div align="center">
+  <a href="https://github.com/edogola4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogola4&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edogola4&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 
 
