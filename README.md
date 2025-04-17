@@ -246,6 +246,53 @@ For a comprehensive view of my work and projects, check out my **professional po
     </tr>
   </table>
 </div> -->
+🛠️ Technical Skills
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<div>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="45" height="45"/>
+</div>
+</details>
+<details>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" alt="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="45" height="45"/>
+</div>
+</details>
+<details>
+<summary><b>Databases</b></summary>
+<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+</div>
+</details>
+<details>
+<summary><b>DevOps & Tools</b></summary>
+<br>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="Jenkins" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg" alt="Trello" width="45" height="45"/>
+</div>
+</details>
 ---
 
 ## 📊 GitHub Statistics.📜 
