@@ -4,7 +4,8 @@
 </div>
 <div id="header" align="center">
  <!-- <img src="https://gifdb.com/images/high/ai-humanoid-boy-neon-0byngj723ojhu25b.gif" width="120"/> -->
-<img align="" height="125" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="person coding">
+<!-- <img align="" height="125" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="person coding"> -->
+<img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
 
  <div id="header">
   <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
@@ -31,10 +32,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Edwin+Ogola+👋;Full+Stack+Developer+🤓+%F0%9F%92%BB;Problem+Solver+🧠+🖋️;Software+Engineer+💻;AI+Enthusiast+🤖." alt="Headline" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
   
-</div>
+</div> -->
                                                                  
 ###  About Me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 - I am a Full Stack Developer🏗️.... Passionate about leveraging emerging technologies such as AI, machine learning, cloud computing, and automation. I enjoy solving complex technical challenges and continuously seek to push the boundaries of innovation in software development🎭
