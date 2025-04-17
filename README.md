@@ -51,7 +51,7 @@
   
 - 🧙 : Previously a software engineer intern at REAL BIZ DIGITAL.
 
-- :seedling: Exploring the world of AI and automation..
+- :seedling: Exploring the world of AI and automation...
 
 - :zap: Active on **LeetCode** and always ready for coding challenges!
 
