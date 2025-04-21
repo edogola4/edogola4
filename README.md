@@ -344,27 +344,6 @@ For a comprehensive view of my work and projects, check out my **professional po
 </div>
 
 
-## 🌟 Featured Projects
-
-### AI-Powered Customer Support Chatbot
-An intelligent chatbot using Python, TensorFlow, and NLP with 95% accuracy for e-commerce platforms. Reduced customer support response time by 40%.
-
-[Repository](https://github.com/edogola4/ai-chatbot) | [Live Demo](https://demo-url.com)
-
-### E-Commerce Platform with Recommendation Engine
-Full-stack e-commerce platform with M-Pesa integration, featuring user authentication, product recommendations, and order tracking.
-
-[Repository](https://github.com/edogola4/ecommerce-platform) | [Live Demo](https://demo-url.com)
-
-### Interactive Data Visualization Dashboard
-Responsive dashboard visualizing COVID-19 statistics in East Africa using React and D3.js.
-
-[Repository](https://github.com/edogola4/covid-dashboard) | [Live Demo](https://demo-url.com)
-
-### Microservices Architecture with CI/CD Pipeline
-Containerized microservices application using Docker and GitHub Actions for automated deployment.
-
-[Repository](https://github.com/edogola4/microservices-demo)
 
 
 ---
@@ -408,3 +387,25 @@ I'm currently open to new opportunities and collaborations. Feel free to reach o
 ## 😊 Enjoying it here?...Show some ❤️ by following me😊 and starring🌟 some of my repositories!  <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/edogola4/edogola4/) !
 ![animated-gif](https://github.com/rahu1gg/rahu1gg/blob/main/assets/coding-animation.gif)
 -->
+
+## 🌟 Sample Featured Projects
+
+### AI-Powered Customer Support Chatbot
+An intelligent chatbot using Python, TensorFlow, and NLP with 95% accuracy for e-commerce platforms. Reduced customer support response time by 40%.
+
+[Repository](https://github.com/edogola4/ai-chatbot) | [Live Demo](https://demo-url.com)
+
+### E-Commerce Platform with Recommendation Engine
+Full-stack e-commerce platform with M-Pesa integration, featuring user authentication, product recommendations, and order tracking.
+
+[Repository](https://github.com/edogola4/ecommerce-platform) | [Live Demo](https://demo-url.com)
+
+### Interactive Data Visualization Dashboard
+Responsive dashboard visualizing COVID-19 statistics in East Africa using React and D3.js.
+
+[Repository](https://github.com/edogola4/covid-dashboard) | [Live Demo](https://demo-url.com)
+
+### Microservices Architecture with CI/CD Pipeline
+Containerized microservices application using Docker and GitHub Actions for automated deployment.
+
+[Repository](https://github.com/edogola4/microservices-demo)
