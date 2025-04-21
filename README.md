@@ -409,3 +409,5 @@ Responsive dashboard visualizing COVID-19 statistics in East Africa using React 
 Containerized microservices application using Docker and GitHub Actions for automated deployment.
 
 [Repository](https://github.com/edogola4/microservices-demo)
+
+⚡ *"The best way to predict the future is to create it."*
