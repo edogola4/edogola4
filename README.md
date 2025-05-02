@@ -48,10 +48,10 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="profile views"/>
   <p>🇰🇪 Based in Nairobi, Kenya</p>
-  <a href="https://user-badge.committers.top/kenya/edogola4">
-    <img src="https://user-badge.committers.top/kenya/EdwinOgola.svg" alt="EdwinOgola's Badge">
-
+ <a href="https://user-badge.committers.top/kenya/edogola4">
+  <img src="https://user-badge.committers.top/kenya/edogola4.svg" alt="edogola4’s Badge">
 </a>
+
 </div>
 
 <div align="center">
