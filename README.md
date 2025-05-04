@@ -42,7 +42,7 @@
     <a href="https://x.com/BrandonOgola">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="[https://brandon-2i82.vercel.app/](https://portfolio-website-five-sigma-91.vercel.app)" target="_blank">
+    <a href="https://portfolio-website-five-sigma-91.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-32a852?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
