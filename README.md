@@ -49,6 +49,7 @@
   <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="profile views"/>
   <p>🇰🇪 Based in Nairobi, Kenya</p>
   
+ /*[![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)*/
  [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
 
 
