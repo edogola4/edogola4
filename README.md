@@ -9,7 +9,7 @@
 
  <div id="header">
   <!-- <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
   </a>  -->
   
  <!-- <a href="mailto: edogola4@gmail.com">
