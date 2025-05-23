@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a> 
   
- <a href="https://x.com/BrandonOgola">
+
     <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 
