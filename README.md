@@ -12,7 +12,7 @@
     
   </a>  -->
   
- <!-- <a href="mailto: edogola4@gmail.com">
+ <!--">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a> 
   
