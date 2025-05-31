@@ -49,32 +49,8 @@
 <!-- -->
  ---                                                                
 ###  About Me  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
-<!-- - I am a Full Stack Developer🏗️.... Passionate about leveraging emerging technologies such as AI, machine learning, cloud computing, and automation. I enjoy solving complex technical challenges and continuously seek to push the boundaries of innovation in software development🎭
-🚗
-- I'm a passionate Full Stack Developer with expertise in building innovative solutions using modern technologies. My approach is to select the right tech stack for each unique problem, ensuring efficient and elegant solutions.
-- The best approach is to pick the tech that's just right for the problem.
-✈️
-- Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
-🚢
-
-
-- 🌍 Based in **Nairobi, Kenya**.
-
-- :telescope: I'm a software engineer trainee at Somakodi School.
-  
-- 🧙 : Previously a software engineer intern at REAL BIZ DIGITAL.
-
-- :seedling: Exploring the world of AI and automation...
-
-- :zap: Active on **LeetCode** and always ready for coding challenges!
-
-### 🌐 Professional Portfolio:
-For a comprehensive view of my work and projects, check out my **professional portfolio** here 👇:
-
-<a href="https://brandon-2i82.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View-My%20Portfolio-32a852?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Link"/>
-</a> -->
- I'm a passionate Full Stack Developer with expertise in building innovative solutions using modern technologies. My approach is to select the right tech stack for each unique problem, ensuring efficient and elegant solutions.
+<!-- -->
+- **I'm a passionate Full Stack Developer with expertise in building innovative solutions using modern technologies. My approach is to select the right tech stack for each unique problem, ensuring efficient and elegant solutions.**
 
  - **🖥️ Software Engineer Trainee** at Somakodi School.
  -  💻 Building scalable web applications with modern JavaScript frameworks
