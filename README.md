@@ -12,22 +12,7 @@
     
   </a>  -->
   
- <!--">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a> 
-  
-
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
-  </a>
-
-  </a>
-</div>
-</>
-<p>Kenya</p>
-<a href="https://user-badge.committers.top/kenya/edogola4">
-    <img src="https://user-badge.committers.top/kenya/EdwinOgola.svg" alt="EdwinOgola's Badge">
-
-</a>-->
+ 
 <div align="center">
   
  <!-- <img align="center" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation"> -->
