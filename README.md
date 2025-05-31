@@ -332,21 +332,6 @@ I'm currently open to new opportunities and collaborations. Feel free to reach o
 
 
 <!--
-
-### The Pace:
-
-<div>  
-<img src="https://github-profile-trophy.vercel.app/?username=edogola4&margin-w=15&margin-h=15" />
-
-</div>
-<div align="right">
-  
-  
-  
-</div>
-
-## 😊 Enjoying it here?...Show some ❤️ by following me😊 and starring🌟 some of my repositories!  <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/edogola4/edogola4/) !
-![animated-gif](https://github.com/rahu1gg/rahu1gg/blob/main/assets/coding-animation.gif)
 -->
 ---
 ## 🌟 Sample Featured Projects
