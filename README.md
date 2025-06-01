@@ -60,13 +60,7 @@
 - **🧩 Problem Solver:** I enjoy tackling complex technical challenges
 - **🌱 Growth Mindset:** Continuously pushing the boundaries of innovation
 
-<!-- ## How to reach me:
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Brandon_Edwin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
-[![Gmail Badge](https://img.shields.io/badge/Email-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brandon14ogola@gmail.com)
-
-*I am open to new opportunities.* -->
+<!-- ## How to reach me: -->
 
 --- 
 
