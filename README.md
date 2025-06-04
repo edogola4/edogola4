@@ -52,7 +52,7 @@
 <!-- -->
 - **I'm a passionate Full Stack Developer with expertise in building innovative solutions using modern technologies. My approach is to select the right tech stack for each unique problem, ensuring efficient and elegant solutions.**
 
- - **🖥️ Software Engineer Trainee** at Somakodi School.
+ - **🖥️ Software Engineer Trainee** .
  -  💻 Building scalable web applications with modern JavaScript frameworks
  - **🧪 Previous Experience:** Software Engineer Intern at REAL BIZ DIGITAL.
 - **🤖 Current Focus:** Exploring AI and automation technologies
