@@ -320,11 +320,6 @@ I'm currently open to new opportunities and collaborations. Feel free to reach o
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=22&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Closing" />
 </div>
 
-
-
-
-
-
 <!--
 -->
 ---
