@@ -56,8 +56,6 @@
 
 <!-- ## How to reach me: -->
 
---- 
-
 <!--
 ## :hammer_and_wrench: Languages and Tools :
 
