@@ -55,7 +55,6 @@
 - **🌱 Growth Mindset:** Continuously pushing the boundaries of innovation
 
 <!-- ## How to reach me: -->
-
 <!--
 ## :hammer_and_wrench: Languages and Tools :
 
