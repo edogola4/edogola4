@@ -254,9 +254,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=edogola4&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-
-
-
 ---
 ## 🤝 Let's Connect
 I'm currently open to new opportunities and collaborations. Feel free to reach out if you'd like to work together or just chat about technology!
