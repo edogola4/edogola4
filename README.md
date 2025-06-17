@@ -12,7 +12,6 @@
   </a>  -->
   
 <div align="center">
-  
  <!-- -->
   <div>
     <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
