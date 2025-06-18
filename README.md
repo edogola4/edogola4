@@ -34,7 +34,6 @@
  [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
 
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Edwin+Ogola+👋;Full+Stack+Developer+🤓+%F0%9F%92%BB;Problem+Solver+🧠+🖋️;Software+Engineer+💻;AI+Enthusiast+🤖." alt="Headline" />
 </div>
