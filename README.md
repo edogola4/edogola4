@@ -1,6 +1,7 @@
 <!---GREETING--->
 
 <div align="center">
+
   
   <!-- ..-->
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Hello,+Welcome+to+My+Profile!+👋;Full+Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Solutions" alt="Greeting" />
