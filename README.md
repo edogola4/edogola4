@@ -296,7 +296,7 @@ Full-stack e-commerce platform with M-Pesa integration, featuring user authentic
 ### Interactive Data Visualization Dashboard
 Responsive dashboard visualizing COVID-19 statistics in East Africa using React and D3.js.
 
-[Repository[](https://github.com/edogola4/covid-dashboard)](https://github.com/edogola4/covid-dashboard) | [Live Demo](https://demo-url.com)
+[Repository[](https://github.com/edogola4/covid-dashboard)]| [Live Demo](https://demo-url.com)
 
 ### Microservices Architecture with CI/CD Pipeline
 Containerized microservices application using Docker and GitHub Actions for automated deployment.
