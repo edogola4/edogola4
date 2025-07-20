@@ -291,7 +291,7 @@ An intelligent chatbot using Python, TensorFlow, and NLP with 95% accuracy for e
 ### E-Commerce Platform with Recommendation Engine
 Full-stack e-commerce platform with M-Pesa integration, featuring user authentication, product recommendations, and order tracking.
 
-[Repository](https://github.com/edogola4/ecommerce-platform) | [Live Demo](https://demo-url.com)
+[Repository](https://github.com/edogola4/e-commerce-) | [Live Demo](https://demo-url.com)
 
 ### Interactive Data Visualization Dashboard
 Responsive dashboard visualizing COVID-19 statistics in East Africa using React and D3.js.
