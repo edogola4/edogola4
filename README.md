@@ -169,7 +169,7 @@ Intelligent chatbot achieving **95% accuracy** for e-commerce platforms. Reduced
 
 Full-stack platform featuring smart product recommendations, secure payments, and real-time order tracking.
 
-🔗 [Repository](https://github.com/edogola4/e-commerce-platform) | [Live Demo](https://demo-url.com)
+🔗 [Repository](https://github.com/edogola4/TinyTots) | [Live Demo](https://demo-url.com)
 
 ### 📊 Interactive Data Visualization Dashboard
 **Tech Stack:** 
