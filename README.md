@@ -221,6 +221,11 @@ Containerized microservices application with automated testing and deployment pi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edogola4&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Time&langs_count=8" alt="Coding Time Stats"/>
+
+ 
+## 📊 This Week's Development Breakdown
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edogola4&range=last_7_days&layout=compact&langs_count=8)
+
 </div>
 
 ## 🎯 2025 Goals
