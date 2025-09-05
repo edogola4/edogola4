@@ -8,34 +8,52 @@
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   
-  <!-- Animated connection badges -->
-  <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:edogola4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-  </a>
-  <a href="https://x.com/BrandonOgola">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)"/>
-  </a>
-  <a href="https://portfolio-website-five-sigma-91.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/edogola4">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20on%20LinkedIn&labelColor=0077B5&color=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=edogola4%40gmail.com&labelColor=EA4335&color=white)](mailto:edogola4@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20%40BrandonOgola&labelColor=1DA1F2&color=white)](https://x.com/BrandonOgola)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=View%20My%20Work&labelColor=181717&color=white)](https://github.com/edogola4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&label=View%20My%20Portfolio&labelColor=FF6B6B&color=white)](https://portfolio-website-five-sigma-91.vercel.app)
+
+</div>
+
+<style>
+  .badge-link {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .badge-link:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+  .badge-link img {
+    transition: filter 0.3s ease;
+  }
+  .badge-link:hover img {
+    filter: brightness(1.1);
+  }
+</style>
+
+<script>
+  // Add the badge-link class to all badge links
+  document.querySelectorAll('a[href*="https://img.shields.io"]').forEach(link => {
+    link.classList.add('badge-link');
+  });
+</script>
+
+<br>
+
+<!-- Animated counters and location -->
+<img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/edogola4?label=Followers&style=social" alt="GitHub Followers"/>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=📍+Based+in+Nairobi%2C+Kenya+🇰🇪;🌍+Building+for+the+world;💡+Innovation+hub+of+East+Africa" alt="Location"/>
   
-  <br><br>
-  
-  <!-- Animated counters and location -->
-  <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/edogola4?label=Followers&style=social" alt="GitHub Followers"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=📍+Based+in+Nairobi%2C+Kenya+🇰🇪;🌍+Building+for+the+world;💡+Innovation+hub+of+East+Africa" alt="Location"/>
-  
-  [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
+[![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
 </div>
 
 ## 🚀 About Me
@@ -241,19 +259,19 @@ I'm always excited to connect with fellow developers, discuss new technologies, 
 
 <div align="center">
   <a href="mailto:edogola4@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email_Me-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white)" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=white)" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-website-five-sigma-91.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B.svg?&style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B.svg?&style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B6B&color=white)" alt="Portfolio"/>
   </a>
   <a href="https://x.com/BrandonOgola">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000.svg?&style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+    <img src="https://img.shields.io/badge/Follow_on_X-000000.svg?&style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=white)" alt="X"/>
   </a>
   <a href="https://github.com/edogola4">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white)" alt="GitHub"/>
   </a>
 </div>
 
