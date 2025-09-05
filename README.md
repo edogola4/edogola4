@@ -11,23 +11,33 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   
 <!-- Animated connection badges -->
-  <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+<div align="center">
+  
+  <!-- Social Media & Contact Links -->
+  <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 5px;"/>
   </a>
-  <a href="mailto:edogola4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
+  <a href="mailto:edogola4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" style="margin: 5px;"/>
   </a>
-  <a href="https://x.com/BrandonOgola">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)"/>
+  <a href="https://x.com/BrandonOgola" target="_blank">
+    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" style="margin: 5px;"/>
   </a>
   <a href="https://portfolio-website-five-sigma-91.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" alt="Portfolio Website" style="margin: 5px;"/>
   </a>
-  <a href="https://github.com/edogola4">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  <a href="https://github.com/edogola4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub Profile" style="margin: 5px;"/>
   </a>
-  
-  <br><br>
+
+</div>
+
+<!-- Add some visual separation -->
+<br>
+
+---
+
+<br>
 
 <!-- Animated counters and location -->
 <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="Profile Views"/>
