@@ -10,11 +10,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20on%20LinkedIn&labelColor=0077B5&color=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=edogola4%40gmail.com&labelColor=EA4335&color=white)](mailto:edogola4@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20%40BrandonOgola&labelColor=1DA1F2&color=white)](https://x.com/BrandonOgola)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=View%20My%20Work&labelColor=181717&color=white)](https://github.com/edogola4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&label=View%20My%20Portfolio&labelColor=FF6B6B&color=white)](https://portfolio-website-five-sigma-91.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect%20on%20LinkedIn&labelColor=0077B5&color=white&logoWidth=20)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=edogola4%40gmail.com&labelColor=EA4335&color=white&logoWidth=20)](mailto:edogola4@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20%40BrandonOgola&labelColor=1DA1F2&color=white&logoWidth=20)](https://x.com/BrandonOgola)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=View%20My%20Work&labelColor=181717&color=white&logoWidth=20)](https://github.com/edogola4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&label=View%20My%20Portfolio&labelColor=FF6B6B&color=white&logoWidth=20)](https://portfolio-website-five-sigma-91.vercel.app)
 
 </div>
 
@@ -237,7 +237,7 @@ Containerized microservices application with automated testing and deployment pi
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=Contributing+to+open-source;Building+production+apps;Mastering+cloud-native;Sharing+knowledge;Mentoring+developers" alt="2024 Goals"/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=Contributing+to+open-source;Building+production+apps;Mastering+cloud-native;Sharing+knowledge;Mentoring+developers" alt="2024 Goals"/>
       </td>
     </tr>
   </table>
