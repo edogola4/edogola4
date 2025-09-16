@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
 
 ### 💼 Experience
 - **Software Engineer Intern** at REAL BIZ DIGITAL
-- **Tec Operations Intern**
+- **Tech Operations Intern**
 - **Full Stack Development** with modern tech stacks
 - **AI Integration** in web applications
 
