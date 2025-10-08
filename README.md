@@ -32,6 +32,7 @@
 
 </div>
 
+
 <!-- Add some visual separation -->
 <br>
 
@@ -46,6 +47,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=📍+Based+in+Nairobi%2C+Kenya+🇰🇪;🌍+Building+for+the+world;💡+Innovation+hub+of+East+Africa" alt="Location"/>
   
 [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
+
+[![wakatime](https://wakatime.com/badge/user/1d580911-60cc-41bd-9a63-3b9a3afefacd.svg?style=for-the-badge&color=1ABC9C&label_color=2C3E50)](https://wakatime.com/@1d580911-60cc-41bd-9a63-3b9a3afefacd)
+
 </div>
 
 ## 🚀 About Me
