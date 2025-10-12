@@ -10,7 +10,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   
-<!-- Animated connection badges -->
+<!-- Animated connection badges --> 
 <div align="center">
   
   <!-- Social Media & Contact Links -->
