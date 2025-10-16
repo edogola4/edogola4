@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ogola  
+# 👋 Hello, I'm Bran Don  
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Solutions;Always+Learning%2C+Always+Building;Welcome+to+my+Digital+Space!+👋" alt="Greeting" />
@@ -58,7 +58,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
 
 ### 🎯 Current Focus
 - 🖥️ **Role:** Software Engineer
-- 🤖 **Learning:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4A90E2&background=00000000&width=300&height=20&lines=Advanced+AI%2FML+implementations;Automation+and+smart+systems;Neural+networks+and+deep+learning" alt="Learning Focus"/>
+- 🤖 **Learning:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4A90E2&background=00000000&width=380&height=24&lines=Advanced+AI%2FML+implementations;Automation+and+smart+systems;Neural+networks+and+deep+learning;Blazor+and+.NET+development" alt="Learning Focus"/>
 - 💻 **Building:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=32a852&background=00000000&width=350&height=20&lines=Scalable+web+applications;Modern+JavaScript+frameworks;Full-stack+solutions" alt="Building Focus"/>
 - 🌱 **Exploring:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=300&height=20&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration" alt="Exploring Focus"/>
 
