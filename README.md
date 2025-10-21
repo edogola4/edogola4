@@ -89,9 +89,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+  <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=python,js,ts,cs,html,css&theme=dark&perline=6" alt="Skills"/>
-  </div>
+  </div> -->
 </div>
 </details>
 
