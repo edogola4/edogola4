@@ -185,9 +185,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+ <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=git,github,jenkins,vscode,visualstudio&theme=dark&perline=5" alt="Tools"/>
-  </div>
+  </div> -->
   
   <p><b>Additional Tools:</b> Postman • Jest • xUnit • GitHub Actions • CI/CD Pipelines</p>
 </div>
