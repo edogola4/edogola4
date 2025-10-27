@@ -169,9 +169,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+ <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,heroku,vercel&theme=dark&perline=6" alt="DevOps"/>
-  </div>
+  </div> -->
 </div>
 </details>
 
