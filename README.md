@@ -119,9 +119,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   <!-- State Management & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+ <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,dotnet,django,flask,bootstrap,tailwind,redux&theme=dark&perline=5" alt="Frameworks"/>
-  </div>
+  </div> -->
 </div>
 </details>
 
