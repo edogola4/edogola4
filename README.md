@@ -199,9 +199,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+ <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=socketio&theme=dark&perline=2" alt="Real-time"/>
-  </div>
+  </div> -->
   
   <p><b>Technologies:</b> Socket.io • SignalR • WebSockets • REST APIs • GraphQL</p>
 </div>
