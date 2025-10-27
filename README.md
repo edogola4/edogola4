@@ -134,9 +134,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+ <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite&theme=dark&perline=4" alt="Databases"/>
-  </div>
+  </div> -->
   
   <p><b>ORMs & Data Tools:</b> Entity Framework Core • Sequelize • Mongoose • Prisma</p>
 </div>
