@@ -150,9 +150,9 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   
-  <div style="margin-top: 15px;">
+ <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark&perline=3" alt="AI/ML Tools"/>
-  </div>
+  </div> -->
   
   <p><b>Specializations:</b> NLP • Neural Networks • Intent Recognition • Deep Learning</p>
 </div>
