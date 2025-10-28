@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
   
   <!-- <div style="margin-top: 15px;">
     <img src="https://skillicons.dev/icons?i=python,js,ts,cs,html,css&theme=dark&perline=6" alt="Skills"/>
-  </div> -->
+  </div> --> 
 </div>
 </details>
 
