@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Solutions;Always+Learning%2C+Always+Building;Welcome+to+my+Digital+Space!+👋" alt="Greeting" />
-</div>
+</div> 
 
 <div align="center">
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
