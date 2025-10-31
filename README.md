@@ -5,14 +5,15 @@
 </div> 
 
 <div align="center">
+  
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="350"/>
+  
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
   
 <!-- Animated connection badges --> 
 <div align="center">
-  
   <!-- Social Media & Contact Links -->
   <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 5px;"/>
