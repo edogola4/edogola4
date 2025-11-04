@@ -368,6 +368,11 @@ Containerized microservices application with automated testing and deployment pi
 
 ## 💼 Professional Experience Highlights
 
+### 🏢 Cognativ - Junior Software Engineer
+-
+-
+-
+
 ### 🏢 Alliance Bioversity CIAT - Software Engineer Intern
 - Developed automated backend systems that **reduced operational processing time by 20%**
 - Built scalable data processing pipelines
