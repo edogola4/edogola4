@@ -63,6 +63,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
 - 🌱 **Exploring:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=300&height=20&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration;ASP.NET+Core+APIs" alt="Exploring Focus"/>
 
 ### 💼 Experience
+- **Junior Software Engineer** at Cognativ
 - **Software Engineer Intern** at Alliance Bioversity CIAT
 - **Software Engineer Intern** at REAL BIZ DIGITAL
 - **ALX Software Engineering** - Top 15% Graduate
