@@ -86,10 +86,10 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turnin
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" height="25"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   
