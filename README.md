@@ -57,10 +57,22 @@
 I'm a passionate **Full Stack Developer** and **Technology Innovator** specializing in enterprise-grade applications. Currently architecting and developing **SmartSchedule Healthcare** - an AI-powered appointment scheduling platform targeting the healthcare scheduling problem.
 
 ### 🎯 Current Focus
+
 - 🖥️ **Role:** Software Engineer
-- 🤖 **Learning:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4A90E2&background=00000000&width=450&height=24&lines=Advanced+AI%2FML+implementations;Automation+and+smart+systems;Neural+networks+and+deep+learning;Blazor+and+.NET+development;Cloud-native+architectures" alt="Learning Focus"/>
-- 💻 **Building:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=32a852&background=00000000&width=350&height=20&lines=Scalable+web+applications;Modern+JavaScript+frameworks;Full-stack+solutions;Real-time+collaboration+platforms" alt="Building Focus"/>
-- 🌱 **Exploring:** <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=300&height=20&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration;ASP.NET+Core+APIs" alt="Exploring Focus"/>
+- 🏥 **Leading Project:** SmartSchedule Healthcare - Enterprise AI scheduling platform
+- 🤖 **Specializing:** Healthcare AI/ML solutions, HIPAA-compliant architectures, .NET 10 enterprise development
+
+### 📚 Learning & Growth
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4A90E2&background=00000000&width=500&height=24&lines=Advanced+AI%2FML+implementations;Neural+networks+and+deep+learning;Azure+OpenAI+integration;Zero-trust+security+architecture" alt="Learning Focus"/>
+
+### 💻 Building & Creating
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=32a852&background=00000000&width=500&height=24&lines=Enterprise+healthcare+platforms;AI-powered+scheduling+systems;FHIR-compliant+integrations;Blazor+WebAssembly+applications" alt="Building Focus"/>
+
+### 🌱 Exploring & Mastering
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=500&height=24&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration;Terraform+Infrastructure+as+Code" alt="Exploring Focus"/>
 
 ### 💼 Experience
 - **Junior Software Engineer** at Cognativ
