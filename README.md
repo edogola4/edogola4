@@ -496,25 +496,11 @@ Containerized microservices application with automated testing and deployment pi
 - Intensive full-stack development training
 - Hands-on project-based learning
 
-## 🎯 2025 Goals
+## 🎯 2025 Goals & Roadmap
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=Contributing+to+open-source;Building+production+apps;Mastering+cloud-native;Sharing+knowledge;Mentoring+developers" alt="2025 Goals"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ff6e96&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Contributing+to+Open+Source;Building+Production+Applications;Mastering+Cloud-Native+Architecture;Sharing+Knowledge+%26+Mentoring" alt="2025 Goals"/>
 </div>
-
-- [ ] 🌟 Contribute to **5+ open-source AI/ML projects**
-- [ ] 🚀 Build and deploy **3 production-ready applications**
-- [ ] ☁️ Master **cloud-native development patterns** and Kubernetes
-- [ ] 📝 Share knowledge through **technical blog posts** and tutorials
-- [ ] 🤝 Mentor **junior developers** in the Nairobi tech community
-- [ ] 💼 Master **.NET and Blazor** for enterprise development
-- [ ] 🎓 Complete **AWS/Azure certifications**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Progress%20Tracker&hide=issues" width="400" alt="Progress Stats"/>
