@@ -74,15 +74,109 @@ I'm a passionate **Full Stack Developer** and **Technology Innovator** specializ
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=500&height=24&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration;Terraform+Infrastructure+as+Code" alt="Exploring Focus"/>
 
-### 💼 Experience
-- **Healthcare Technology Architect** - SmartSchedule Healthcare
-- **Junior Software Engineer** at Cognativ
-- **Software Engineer Intern** at Alliance Bioversity CIAT
-- **Software Engineer Intern** at REAL BIZ DIGITAL
-- **ALX Software Engineering** - Top 15% Graduate
-- **Moringa School** - Top 15% Graduate
-- **Full Stack Development** with modern tech stacks
-- **AI Integration** in web applications
+### 💼 Experience & Background
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Building+Healthcare+Innovation;Enterprise+Software+Development;AI%2FML+Integration+Specialist;Full-Stack+Engineering+Excellence" alt="Experience Header"/>
+</div>
+
+#### 🏥 **Healthcare Technology Architect** | SmartSchedule Healthcare
+*Current • Leading Enterprise AI Platform Development*
+
+Building HIPAA-compliant, AI-powered scheduling platform for healthcare providers using .NET 10, Azure, and ML.NET.
+
+**Tech:** `.NET 10` `Blazor` `Azure OpenAI` `FHIR` `Terraform`
+
+---
+
+#### 💻 **Junior Software Engineer** | Cognativ
+*4 months • Nairobi*
+
+Developing enterprise software solutions with modern .NET technologies and cloud infrastructure.
+
+**Tech:** `C#` `ASP.NET Core` `Azure` `SQL Server` `Microservices`
+
+---
+
+#### 🌾 **Software Engineer Intern** | Alliance Bioversity CIAT
+*6 months • Nairobi*
+
+- Reduced operational processing time by **20%** through automated backend systems
+- Built scalable data processing pipelines for agricultural research
+
+**Tech:** `Python` `Django` `PostgreSQL` `REST APIs` `Docker`
+
+---
+
+#### 🎨 **Software Engineer Intern** | REAL BIZ DIGITAL
+*6 Months • Remote*
+
+- Increased user engagement by **25%** through responsive web applications
+- Delivered production features in Agile sprints
+
+**Tech:** `React` `Redux` `Node.js` `MongoDB` `JavaScript`
+
+---
+
+#### 🎓 **Education & Training**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>🏆 University of Nairobi</b><br>
+        <sub>Top 15% Graduate</sub><br>
+        <i>Intensive CS Degree Program</i>
+      </td>
+      <td align="center" width="50%">
+        <b>🏆 Moringa School</b><br>
+        <sub>Top 15% Graduate</sub><br>
+        <i>Software Development Bootcamp</i>
+      </td>
+      <td align="center" width="100%">
+        <b>🏆 ALX Software Engineeringl</b><br>
+        <sub>Top 15% Graduate</sub><br>
+        <i>Intensive Full-Stack Program</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**Key Focus Areas:**
+- 🔧 Full-Stack Development with modern frameworks
+- 🤖 AI/ML Integration in web applications
+- 🏗️ System Design & Software Architecture
+- ☁️ Cloud-Native Development & DevOps
+- 📊 Data Structures & Algorithms
+- 🤝 Agile Methodologies & Team Collaboration
+
+---
+
+#### 🚀 **Core Expertise**
+```yaml
+Full-Stack Development:
+  - Frontend: Blazor, React, Angular, TypeScript
+  - Backend: .NET, Node.js, Python, ASP.NET Core
+  - Database: SQL Server, PostgreSQL, MongoDB
+
+Healthcare Technology:
+  - HIPAA-compliant architectures
+  - FHIR/HL7 integration
+  - Clinical workflow automation
+  - Healthcare data security
+
+AI/ML Integration:
+  - Azure OpenAI GPT-4o
+  - ML.NET predictive models
+  - NLP & intent recognition
+  - TensorFlow implementations
+
+Cloud & DevOps:
+  - Azure & AWS platforms
+  - Docker & Kubernetes
+  - Terraform IaC
+  - CI/CD pipelines
+```
 
 ### 🧩 What Drives Me
 
