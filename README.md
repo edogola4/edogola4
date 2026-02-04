@@ -54,7 +54,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **AI Enthusiast** who loves turning complex problems into elegant solutions. Currently exploring the intersection of web development and artificial intelligence to build the next generation of smart applications.
+I'm a passionate **Full Stack Developer** and **Technology Innovator** specializing in enterprise-grade applications. Currently architecting and developing **SmartSchedule Healthcare** - an AI-powered appointment scheduling platform targeting the healthcare scheduling problem.
 
 ### 🎯 Current Focus
 - 🖥️ **Role:** Software Engineer
