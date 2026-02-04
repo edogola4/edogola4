@@ -339,115 +339,269 @@ Cloud & DevOps:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=ff6e96&background=00000000&center=true&vCenter=true&width=600&height=40&lines=Showcasing+my+best+work;Innovation+meets+functionality;Building+the+future%2C+one+app+at+a+time" alt="Projects Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=ff6e96&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Building+Innovation+Through+Code;Enterprise+%7C+Healthcare+%7C+AI%2FML;Solving+Real-World+Problems" alt="Projects Header"/>
 </div>
-
-### 🤖 AI-Powered Customer Support Chatbot
-**Tech Stack:** 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI Tech Stack" height="25"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=4A90E2&background=00000000&width=350&height=20&lines=Python+%E2%80%A2+TensorFlow+%E2%80%A2+NLP+%E2%80%A2+REST+APIs+%E2%80%A2+Intent+Recognition" alt="Tech Stack"/>
-</div>
-
-Intelligent chatbot achieving **95% accuracy** for e-commerce platforms. Reduced customer support response time by **40%**.
-
-**Key Features:**
-- Natural Language Processing with TensorFlow
-- Intent classification and entity recognition
-- Context-aware conversation management
-- Real-time response generation
-
-🔗 [Repository](https://github.com/edogola4/ai-chatbot) | [Live Demo](https://demo-url.com)
 
 ---
 
-### 🛒 TinyTots - E-Commerce Platform with Smart Recommendations
-**Tech Stack:** 
+### 🏥 **SmartSchedule Healthcare** - Enterprise AI Scheduling Platform
+**Role:** Healthcare Technology Architect | **Status:** Active Development
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,django,postgresql&theme=dark" alt="E-commerce Tech Stack" height="25"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=32a852&background=00000000&width=380&height=20&lines=Angular+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+M-Pesa+API+%E2%80%A2+ML+Recommendations" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,terraform&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=00D4AA&background=00000000&width=500&height=20&lines=.NET+10+%E2%80%A2+Blazor+%E2%80%A2+Azure+OpenAI+%E2%80%A2+FHIR+%E2%80%A2+Terraform+%E2%80%A2+ML.NET" alt="Tech Details"/>
 </div>
 
-Full-stack e-commerce platform featuring smart product recommendations, secure payments, and real-time order tracking. **85% test coverage**.
+**Business Impact:**
+- 🎯 Addressing **$150B** annual healthcare scheduling inefficiency
+- 📈 Target market: **150K+** US healthcare practices (2-50 providers)
+- 💰 Revenue projection: **$240K ARR** Year 1 → **$2.2M ARR** Year 3
+- 🚀 Customer ROI: **150-250%** within 3 years
+
+**Technical Architecture:**
+```yaml
+Backend:     .NET 10 LTS • ASP.NET Core • Clean Architecture • CQRS
+Frontend:    Blazor WebAssembly/Server • MudBlazor • PWA
+Database:    Azure SQL (Always Encrypted) • Redis • Cosmos DB
+AI/ML:       Azure OpenAI GPT-4o • ML.NET (85% prediction accuracy)
+Integration: HL7 FHIR R4 (Epic, Cerner, Athena)
+Security:    HIPAA-compliant • Zero-trust • SOC 2 Type II ready
+Infrastructure: Azure Cloud-Native • Terraform IaC • Kubernetes
+```
 
 **Key Features:**
-- ML-powered product recommendations
-- M-Pesa payment integration
-- Real-time inventory management
-- Comprehensive testing suite (Jest, Pytest)
+- 🤖 **AI No-Show Prediction:** 85% accuracy, reducing no-shows by 40%
+- 📱 **Patient Self-Service:** Mobile-first booking with <2min completion
+- 🔗 **EHR Integration:** Bidirectional sync with major healthcare systems
+- 🔒 **HIPAA Compliance:** End-to-end encryption, audit trails, BAA ready
+- 📊 **Analytics Dashboard:** Real-time metrics, ROI tracking
+- ⚡ **Performance:** <200ms API response, 99.9% uptime target
 
-🔗 [Repository](https://github.com/edogola4/TinyTots) | [Live Demo](https://demo-url.com)
+**Development Status:**
+- ✅ Phase 0: Market research, architecture, legal framework
+- ✅ Infrastructure: Azure environments provisioned
+- ✅ Foundation: Core API, EF Core, authentication framework
+- 🚧 Current: Patient portal, provider dashboard, EHR integration
+- 🎯 MVP Launch: Q2 2026 with 10 beta customers
+
+🔗 **[View Repository](https://github.com/edogola4/smartschedule-healthcare)**
 
 ---
 
-### 💬 Real-Time Collaboration Platform
-**Tech Stack:** 
+### 🤖 **AI-Powered Customer Support Chatbot**
+**Category:** AI/ML • NLP | **Impact:** 95% Accuracy, 40% Faster Response
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,socketio,mongodb&theme=dark" alt="Collaboration Tech Stack" height="25"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FFD700&background=00000000&width=350&height=20&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Socket.io+%E2%80%A2+MongoDB+%E2%80%A2+WebSockets" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=4A90E2&background=00000000&width=400&height=20&lines=Python+%E2%80%A2+TensorFlow+%E2%80%A2+NLP+%E2%80%A2+REST+APIs+%E2%80%A2+Intent+Recognition" alt="Tech Details"/>
 </div>
 
-Real-time collaboration tool with live messaging, presence detection, and collaborative document editing.
+Intelligent chatbot for e-commerce platforms achieving **95% accuracy** in intent recognition and reducing customer support response time by **40%**.
 
 **Key Features:**
-- WebSocket-based real-time communication
-- User presence and typing indicators
-- Collaborative document editing
-- Message history and search
+- 🧠 Natural Language Processing with TensorFlow
+- 🎯 Intent classification and entity recognition
+- 💬 Context-aware conversation management
+- ⚡ Real-time response generation with REST APIs
 
-🔗 [Repository](https://github.com/edogola4/collab-platform) | [Live Demo](https://demo-url.com)
+🔗 **[Repository](https://github.com/edogola4/ai-chatbot)** | **[Live Demo](https://demo-url.com)**
 
 ---
 
-### 🏥 BlazorCrudDemo - .NET Learning Project
-**Tech Stack:** 
+### 🛒 **TinyTots** - E-Commerce Platform with ML Recommendations
+**Category:** Full-Stack • E-Commerce | **Impact:** 85% Test Coverage
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor&theme=dark" alt="Blazor Tech Stack" height="25"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=ff6e96&background=00000000&width=400&height=20&lines=C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Blazor+Server+%E2%80%A2+EF+Core+%E2%80%A2+SignalR" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=angular,django,postgresql&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=32a852&background=00000000&width=450&height=20&lines=Angular+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+M-Pesa+API+%E2%80%A2+ML+Recommendations" alt="Tech Details"/>
 </div>
 
-Full-stack CRUD application demonstrating clean architecture patterns in .NET with Blazor Server.
+Full-stack e-commerce platform featuring smart product recommendations, secure M-Pesa payments, and real-time order tracking with **85% test coverage**.
 
 **Key Features:**
-- Layered architecture (Data, Shared, Web)
-- Entity Framework Core with Repository pattern
-- SignalR for real-time updates
-- Dependency injection throughout
-- AutoMapper for DTO conversions
+- 🤖 ML-powered product recommendation engine
+- 💳 M-Pesa payment gateway integration
+- 📦 Real-time inventory management system
+- ✅ Comprehensive testing suite (Jest, Pytest)
 
-🔗 [Repository](https://github.com/edogola4/blazor-crud-demo)
+🔗 **[Repository](https://github.com/edogola4/TinyTots)** | **[Live Demo](https://demo-url.com)**
 
 ---
 
-### 📊 Interactive Data Visualization Dashboard
-**Tech Stack:** 
+### 💬 **Real-Time Collaboration Platform**
+**Category:** Full-Stack • Real-Time | **Tech:** WebSockets, Socket.io
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="Dashboard Tech Stack" height="25"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=4A90E2&background=00000000&width=300&height=20&lines=React+%E2%80%A2+D3.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,socketio,mongodb&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FFD700&background=00000000&width=400&height=20&lines=React+%E2%80%A2+Node.js+%E2%80%A2+Socket.io+%E2%80%A2+MongoDB+%E2%80%A2+WebSockets" alt="Tech Details"/>
 </div>
 
-Responsive dashboard visualizing COVID-19 statistics across East Africa with real-time data updates.
+Real-time collaboration tool with live messaging, presence detection, and collaborative document editing capabilities.
 
-🔗 [Repository](https://github.com/edogola4/covid-dashboard) | [Live Demo](https://demo-url.com)
+**Key Features:**
+- 🔄 WebSocket-based real-time communication
+- 👥 User presence and typing indicators
+- 📝 Collaborative document editing
+- 🔍 Message history and search functionality
+
+🔗 **[Repository](https://github.com/edogola4/collab-platform)** | **[Live Demo](https://demo-url.com)**
 
 ---
 
-### 🔄 Microservices Architecture with CI/CD
-**Tech Stack:** 
+### 🏥 **BlazorCrudDemo** - .NET Clean Architecture
+**Category:** .NET Learning Project | **Focus:** Clean Architecture, SOLID Principles
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nodejs&theme=dark" alt="Microservices Tech Stack" height="25"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=32a852&background=00000000&width=380&height=20&lines=Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions+%E2%80%A2+Node.js+%E2%80%A2+AWS" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=ff6e96&background=00000000&width=450&height=20&lines=C%23+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Blazor+Server+%E2%80%A2+EF+Core+%E2%80%A2+SignalR" alt="Tech Details"/>
 </div>
 
-Containerized microservices application with automated testing and deployment pipeline.
+Full-stack CRUD application demonstrating clean architecture patterns in .NET with Blazor Server and real-time capabilities.
 
 **Key Features:**
-- Docker containerization
-- Kubernetes orchestration
-- CI/CD with GitHub Actions
-- Automated testing and deployment
+- 🏗️ Layered architecture (Data, Shared, Web)
+- 📊 Entity Framework Core with Repository pattern
+- ⚡ SignalR for real-time updates
+- 💉 Dependency injection throughout
+- 🔄 AutoMapper for DTO conversions
 
-🔗 [Repository](https://github.com/edogola4/microservices-demo)
+🔗 **[Repository](https://github.com/edogola4/blazor-crud-demo)**
+
+---
+
+### 📊 **COVID-19 Data Visualization Dashboard**
+**Category:** Data Visualization | **Region:** East Africa
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=4A90E2&background=00000000&width=350&height=20&lines=React+%E2%80%A2+D3.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Real-time" alt="Tech Details"/>
+</div>
+
+Interactive dashboard visualizing COVID-19 statistics across East Africa with real-time data updates and dynamic charts.
+
+**Key Features:**
+- 📈 D3.js interactive visualizations
+- 🔄 Real-time data updates
+- 🗺️ Regional breakdown and trends
+- 📱 Responsive design for all devices
+
+🔗 **[Repository](https://github.com/edogola4/covid-dashboard)** | **[Live Demo](https://demo-url.com)**
+
+---
+
+### 🔄 **Microservices Architecture with CI/CD**
+**Category:** DevOps • Cloud | **Focus:** Containerization, Orchestration
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nodejs&theme=dark" alt="Tech Stack" height="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=32a852&background=00000000&width=450&height=20&lines=Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions+%E2%80%A2+Node.js+%E2%80%A2+AWS" alt="Tech Details"/>
+</div>
+
+Containerized microservices application with automated testing, deployment pipeline, and cloud orchestration.
+
+**Key Features:**
+- 🐳 Docker containerization
+- ☸️ Kubernetes orchestration
+- 🔄 CI/CD with GitHub Actions
+- ✅ Automated testing and deployment
+- ☁️ AWS cloud infrastructure
+
+🔗 **[Repository](https://github.com/edogola4/microservices-demo)**
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=600&height=35&lines=Building+with+Modern+Technologies;Enterprise+%7C+Cloud+%7C+AI%2FML;Full-Stack+Development" alt="Tech Stack Header"/>
+</div>
+
+<details open>
+<summary><b>🔥 Core Languages</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" height="40"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</div>
+</details>
+
+<details>
+<summary><b>🚀 Frameworks & Libraries</b></summary>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
+  
+  <p><b>Healthcare Specific:</b> MudBlazor • FHIR.Net • HL7 • Entity Framework Core • SignalR</p>
+</div>
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
+  
+  <p><b>Healthcare Data:</b> Always Encrypted • HIPAA Compliance • Row-Level Security • Cosmos DB Vector Search</p>
+</div>
+</details>
+
+<details>
+<summary><b>🤖 AI/ML & Healthcare</b></summary>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  
+  <p><b>Healthcare AI:</b> Azure OpenAI GPT-4o • ML.NET • No-Show Prediction • FHIR Analytics • Clinical Decision Support</p>
+</div>
+</details>
+
+<details>
+<summary><b>⚙️ DevOps & Infrastructure</b></summary>
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
+  
+  <p><b>Enterprise DevOps:</b> Terraform IaC • Azure Pipelines • HIPAA-compliant CI/CD • Zero-trust Security</p>
+</div>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=ff6e96&background=00000000&center=true&vCenter=true&width=500&height=35&lines=Coding+Statistics+%26+Activity;Continuous+Learning+%26+Growth" alt="Analytics Header"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff6e96&text_color=f8f8f2&bg_color=282a36"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogola4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=ff6e96&text_color=f8f8f2&bg_color=282a36"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edogola4&theme=tokyonight&hide_border=true&background=282a36&stroke=ff6e96&ring=ff6e96&fire=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6e96&sideLabels=ff6e96&dates=f8f8f2" alt="GitHub Streak"/>
+</div>
 
 ## 📈 Contribution Activity
 
