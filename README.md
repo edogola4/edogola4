@@ -496,15 +496,36 @@ Containerized microservices application with automated testing and deployment pi
 - Intensive full-stack development training
 - Hands-on project-based learning
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ff6e96&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Contributing+to+Open+Source;Building+Production+Applications;Mastering+Cloud-Native+Architecture;Sharing+Knowledge+%26+Mentoring" alt="2025 Goals"/>
 </div>
 
+### 🌟 **Technical Growth**
+- [ ] 🚀 **Open Source:** Contribute to **5+ AI/ML open-source projects**
+- [ ] 💼 **.NET Mastery:** Complete advanced Blazor and ASP.NET Core certifications
+- [ ] ☁️ **Cloud Expertise:** Achieve **AWS Solutions Architect** or **Azure Developer** certification
+- [ ] 🤖 **AI/ML:** Build production-grade AI applications with Azure OpenAI
+
+### 💻 **Project Milestones**
+- [ ] 🏥 Launch **SmartSchedule Healthcare MVP** with 10 beta customers (Q2 2027)
+- [ ] 🌐 Deploy **3 production-ready full-stack applications**
+- [ ] 📊 Build **real-time analytics dashboard** with modern data visualization
+- [ ] 🔐 Implement **enterprise-grade security patterns** in personal projects
+
+### 🤝 **Community Impact**
+- [ ] 📝 Publish **12+ technical blog posts** on .NET, Blazor, and AI/ML
+- [ ] 🎤 Deliver **2+ tech talks** at local meetups or conferences
+- [ ] 👥 Mentor **5+ junior developers** in the Nairobi tech community
+- [ ] 🌍 Organize **monthly coding sessions** for aspiring developers
+
+### 📈 **Progress Tracker**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Progress%20Tracker&hide=issues" width="400" alt="Progress Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=2025%20Progress&hide=issues&title_color=ff6e96&icon_color=ff6e96&text_color=f8f8f2&bg_color=282a36" width="450" alt="Progress Stats"/>
 </div>
+
+---
 
 ## 🤝 Let's Connect & Collaborate
 
