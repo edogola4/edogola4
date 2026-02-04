@@ -75,6 +75,7 @@ I'm a passionate **Full Stack Developer** and **Technology Innovator** specializ
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=500&height=24&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration;Terraform+Infrastructure+as+Code" alt="Exploring Focus"/>
 
 ### 💼 Experience
+- **Healthcare Technology Architect** - SmartSchedule Healthcare
 - **Junior Software Engineer** at Cognativ
 - **Software Engineer Intern** at Alliance Bioversity CIAT
 - **Software Engineer Intern** at REAL BIZ DIGITAL
