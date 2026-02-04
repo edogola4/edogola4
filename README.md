@@ -85,11 +85,11 @@ I'm a passionate **Full Stack Developer** and **Technology Innovator** specializ
 - **AI Integration** in web applications
 
 ### 🧩 What Drives Me
-- Problem-solving through innovative technology
-- Building user-centric applications with measurable impact
-- Continuous learning and growth mindset
-- Contributing to open-source projects
-- Mentoring and knowledge sharing
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=600&height=30&lines=Problem-solving+through+innovation;Building+impactful+solutions;Continuous+learning+%26+growth;Open-source+contribution;Knowledge+sharing+%26+mentoring" alt="What Drives Me"/>
+</div>
+
 
 ## 🛠️ Tech Stack
 
