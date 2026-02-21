@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bran Don 
+# 👋 Hello, I'm Bran Don
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%26+AI+Enthusiast;Technology+Innovator;Enterprise+Software+Architect;+Turning+Ideas+into+Solutions;Always+Learning%2C+Always+Building;Welcome+to+my+Digital+Space!+👋" alt="Greeting" />
