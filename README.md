@@ -14,22 +14,12 @@
   
 <!-- Animated connection badges --> 
 <div align="center">
-  <!-- Social Media & Contact Links -->
-  <a href="https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="margin: 5px;"/>
-  </a>
-  <a href="mailto:edogola4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" style="margin: 5px;"/>
-  </a>
-  <a href="https://x.com/BrandonOgola" target="_blank">
-    <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" style="margin: 5px;"/>
-  </a>
-  <a href="https://portfolio-website-five-sigma-91.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" alt="Portfolio Website" style="margin: 5px;"/>
-  </a>
-  <a href="https://github.com/edogola4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub Profile" style="margin: 5px;"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edogola4@gmail.com)&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/BrandonOgola)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-website-five-sigma-91.vercel.app)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/edogola4)
 
 </div>
 
