@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bran Don
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=32&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%26+AI+Enthusiast;Technology+Innovator;Enterprise+Software+Architect;Turning+Ideas+into+Solutions;Always+Learning%2C+Always+Building;Welcome+to+my+Digital+Space!+👋" alt="Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4A90E2&size=24&center=true&vCenter=true&width=720&height=50&lines=Founder%2C+SmartSchedule+Healthcare;Full-Stack+Engineer+-+.NET%2C+React%2C+Node.js;Based+in+Nairobi%2C+Kenya" alt="Typing animation" />
 </div>
 
 <div align="center">
