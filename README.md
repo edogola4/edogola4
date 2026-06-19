@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Technology Innovator** specializing in enterprise-grade applications. Currently architecting and developing **SmartSchedule Healthcare** — an AI-powered appointment scheduling platform targeting the healthcare scheduling problem.
+Full-stack software engineer based in Nairobi, building backend APIs, full-stack SaaS products, and AI-integrated systems. Experienced with Azure infrastructure and African payment systems (M-Pesa, Pesapal). Previously shipped production work at **Cognativ Technology Limited**; currently building **SmartSchedule Healthcare** and open to new contract and full-time opportunities.
 
 ### 🎯 Current Focus
 
