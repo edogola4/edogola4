@@ -45,143 +45,65 @@ Previously shipped production work at **Cognativ Technology Limited**. Currently
 
 ---
 
-### 🚀 Core Expertise
+## Tech Stack
 
-```yaml
-Full-Stack Development:
-  - Frontend: Blazor, React, Angular, TypeScript
-  - Backend: .NET, Node.js, Python, ASP.NET Core
-  - Database: SQL Server, PostgreSQL, MongoDB
-
-Healthcare Technology:
-  - HIPAA-compliant architectures
-  - FHIR/HL7 integration
-  - Clinical workflow automation
-  - Healthcare data security
-
-AI/ML Integration:
-  - Azure OpenAI GPT-4o
-  - ML.NET predictive models
-  - NLP & intent recognition
-  - TensorFlow implementations
-
-Cloud & DevOps:
-  - Azure & AWS platforms
-  - Docker & Kubernetes
-  - Terraform IaC
-  - CI/CD pipelines
-```
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>🔥 Core Languages</b></summary>
-<br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".NET" height="40"/>
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logoColor=white)
+![Next.js 14](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+**Databases & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI & Integrations**
+
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Embeddings](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=flat-square&logo=openai&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![M-Pesa Daraja](https://img.shields.io/badge/M--Pesa_Daraja-00A859?style=flat-square&logoColor=white)
+![Pesapal](https://img.shields.io/badge/Pesapal-1565C0?style=flat-square&logoColor=white)
+![Africa's Talking](https://img.shields.io/badge/Africa%27s_Talking-FF6B00?style=flat-square&logoColor=white)
+
 </div>
-</details>
-
-<details>
-<summary><b>🚀 Frameworks & Libraries</b></summary>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-
-  <p><b>Healthcare Specific:</b> MudBlazor • FHIR.Net • HL7 • Entity Framework Core • SignalR</p>
-</div>
-</details>
-
-<details>
-<summary><b>🗄️ Databases & Cloud</b></summary>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
-
-  <p><b>ORMs & Data Tools:</b> Entity Framework Core • Sequelize • Mongoose • Prisma</p>
-  <p><b>Healthcare Data:</b> Always Encrypted • HIPAA Compliance • Row-Level Security • Cosmos DB Vector Search</p>
-</div>
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-
-  <p><b>Healthcare AI:</b> Azure OpenAI GPT-4o • ML.NET • No-Show Prediction • FHIR Analytics • Clinical Decision Support</p>
-  <p><b>Specializations:</b> NLP • Neural Networks • Intent Recognition • Deep Learning</p>
-</div>
-</details>
-
-<details>
-<summary><b>⚙️ DevOps & Infrastructure</b></summary>
-<br>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
-
-  <p><b>Enterprise DevOps:</b> Terraform IaC • Azure Pipelines • HIPAA-compliant CI/CD • Zero-trust Security</p>
-</div>
-</details>
-
-<details>
-<summary><b>🔧 Tools & Version Control</b></summary>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="Jenkins" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
-
-  <p><b>Additional Tools:</b> Postman • Jest • xUnit • GitHub Actions • CI/CD Pipelines</p>
-</div>
-</details>
-
-<details>
-<summary><b>🌐 Real-time & Communication</b></summary>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="50" height="50"/>
-
-  <p><b>Technologies:</b> Socket.io • SignalR • WebSockets • REST APIs • GraphQL</p>
-</div>
-</details>
 
 ---
 
