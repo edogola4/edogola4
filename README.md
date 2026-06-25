@@ -30,106 +30,18 @@
 </div>
 
 ---
+## About
 
-## 🚀 About Me
+Full-stack engineer with 2+ years shipping production systems across fintech, healthcare, and SaaS. I work across the full delivery chain — API design, database optimization, cloud infrastructure, and CI/CD. I've integrated real payment systems (M-Pesa, Pesapal), AI features (Anthropic Claude, OpenAI embeddings), and scalable infra on Azure and AWS.
 
-Full-stack software engineer based in Nairobi, building backend APIs, full-stack SaaS products, and AI-integrated systems. Experienced with Azure infrastructure and African payment systems (M-Pesa, Pesapal). Previously shipped production work at **Cognativ Technology Limited**; currently building **SmartSchedule Healthcare** and open to new contract and full-time opportunities.
+Previously shipped production work at **Cognativ Technology Limited**. Currently building **SmartSchedule Healthcare** full-time — an AI-powered scheduling SaaS for healthcare providers — and open to contract and full-time opportunities.
 
-### 🎯 Current Focus
-
-- 🖥️ **Role:** Software Engineer
-- 🏥 **Leading Project:** SmartSchedule Healthcare — Enterprise AI Scheduling Platform
-- 🤖 **Specializing:** Healthcare AI/ML solutions, HIPAA-compliant architectures, .NET 10 enterprise development
-
-### 📚 Learning & Growth
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4A90E2&background=00000000&width=500&height=24&lines=Advanced+AI%2FML+implementations;Neural+networks+and+deep+learning;Azure+OpenAI+integration;Zero-trust+security+architecture" alt="Learning Focus"/>
-
-### 💻 Building & Creating
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=32a852&background=00000000&width=500&height=24&lines=Enterprise+healthcare+platforms;AI-powered+scheduling+systems;FHIR-compliant+integrations;Blazor+WebAssembly+applications" alt="Building Focus"/>
-
-### 🌱 Exploring & Mastering
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=ff6e96&background=00000000&width=500&height=24&lines=Cloud-native+architectures;Microservices+patterns;Kubernetes+orchestration;Terraform+Infrastructure+as+Code" alt="Exploring Focus"/>
+**Right now I'm focused on:**
+- Shipping the SmartSchedule Healthcare MVP (Azure · .NET 10 · Blazor · Terraform)
+- Deepening expertise in FHIR/HL7 integration and HIPAA-compliant architecture
+- LLM integration patterns with the Anthropic Claude API
 
 ---
-
-## 💼 Experience & Background
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4AA&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Building+Healthcare+Innovation;Enterprise+Software+Development;AI%2FML+Integration+Specialist;Full-Stack+Engineering+Excellence" alt="Experience Header"/>
-</div>
-
-### 🏥 Healthcare Technology Architect | SmartSchedule Healthcare
-*Current · Leading Enterprise AI Platform Development*
-
-Building a HIPAA-compliant, AI-powered scheduling platform for healthcare providers using .NET 10, Azure, and ML.NET.
-
-**Tech:** `.NET 10` `Blazor` `Azure OpenAI` `FHIR` `Terraform`
-
----
-
-### 💻 Junior Software Engineer | Cognativ
-*4 months · Nairobi*
-
-Developing enterprise software solutions with modern .NET technologies and cloud infrastructure.
-
-**Tech:** `C#` `ASP.NET Core` `Azure` `SQL Server` `Microservices`
-
----
-
-### 🌾 Software Engineer Intern | Alliance Bioversity CIAT
-*6 months · Nairobi*
-
-- Reduced operational processing time by **20%** through automated backend systems
-- Built scalable data processing pipelines for agricultural research
-
-**Tech:** `Python` `Django` `PostgreSQL` `REST APIs` `Docker`
-
----
-
-### 🎨 Software Engineer Intern | REAL BIZ DIGITAL
-*6 months · Remote*
-
-- Increased user engagement by **25%** through responsive web applications
-- Delivered production features in Agile sprints
-
-**Tech:** `React` `Redux` `Node.js` `MongoDB` `JavaScript`
-
----
-
-### 🎓 Education & Training
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>🏆 University of Nairobi</b><br>
-        <sub>Top 15% Graduate</sub><br>
-        <i>CS Degree Program</i>
-      </td>
-      <td align="center" width="33%">
-        <b>🏆 Moringa School</b><br>
-        <sub>Top 15% Graduate</sub><br>
-        <i>Software Development Bootcamp</i>
-      </td>
-      <td align="center" width="33%">
-        <b>🏆 ALX Software Engineering</b><br>
-        <sub>Top 15% Graduate</sub><br>
-        <i>Intensive Full-Stack Program</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-**Key Focus Areas:**
-- 🔧 Full-Stack Development with modern frameworks
-- 🤖 AI/ML Integration in web applications
-- 🏗️ System Design & Software Architecture
-- ☁️ Cloud-Native Development & DevOps
-- 📊 Data Structures & Algorithms
-- 🤝 Agile Methodologies & Team Collaboration
 
 ---
 
