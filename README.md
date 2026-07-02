@@ -190,7 +190,7 @@ Intelligent chatbot for e-commerce platforms achieving **95% accuracy** in inten
 
 ---
 
-### 🛒 TinyTots — E-Commerce Platform with ML Recommendations
+### 🛒🛍️ TinyTots — E-Commerce Platform with ML Recommendations
 **Category:** Full-Stack · E-Commerce | **Impact:** 85% Test Coverage
 
 **Tech:** `Angular` `Django` `PostgreSQL` `M-Pesa API` `ML`
