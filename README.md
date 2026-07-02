@@ -316,54 +316,8 @@ Containerized microservices application with automated testing, deployment pipel
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edogola4&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Time&langs_count=8" alt="Coding Time Stats"/>
 </div>
 
----
 
-## 💼 Professional Experience Highlights
 
-### 🏢 Cognativ Technology Limited — Junior Software Engineer
-
-- 🚀 Optimized database queries and implemented Entity Framework Core migrations, **reducing API response times by 35%** through strategic indexing and query optimization
-- 💡 Achieved **95% bug-free deployment rate** by collaborating with cross-functional teams (Product, QA, DevOps) in agile sprints, maintaining **80% code coverage** through comprehensive testing
-- ⚡ Built responsive Blazor Server components with **real-time data synchronization via SignalR**, significantly improving user experience across enterprise clients
-- 🏗️ Designed and implemented **RESTful APIs** for the SmartSaaS™ cloud platform with comprehensive error handling, validation, and authentication following industry security standards
-- 👥 Collaborated with other developers on .NET best practices, SOLID principles, and clean code architecture while contributing to technical documentation
-- 🔧 Participated in architectural design sessions for system scalability and contributed to technical decision-making
-
-**Tech Stack:** `C#` `ASP.NET Core` `.NET Core` `Blazor Server` `Entity Framework Core` `SQL Server` `SignalR` `RESTful APIs`
-
----
-
-### 🏢 Alliance Bioversity CIAT — Software Engineer Intern
-
-- ⚡ Developed automated backend systems that **reduced operational processing time by 20%**
-- 🔧 Built scalable data processing pipelines for agricultural data management
-- 🌐 Implemented RESTful APIs for internal research tools
-- 📊 Optimized database queries, improving system performance
-
-**Tech Stack:** `Python` `Django` `PostgreSQL` `REST APIs` `Docker`
-
----
-
-### 🏢 REAL BIZ DIGITAL — Software Engineer Intern
-
-- 📈 Built responsive web applications increasing **user engagement by 25%**
-- 🎨 Implemented Redux Toolkit for efficient state management
-- ✅ Delivered production features within sprint cycles using Agile methodology
-- 🤝 Collaborated with cross-functional teams on client projects
-
-**Tech Stack:** `React` `Redux` `JavaScript` `Node.js` `MongoDB`
-
----
-
-### 🎓 ALX Software Engineering & Moringa School
-**Achievement:** Graduated in **Top 15%** of cohort
-
-- 🏆 Completed intensive full-stack development training (1,200+ hours)
-- 💻 Hands-on project-based learning with real-world applications
-- 🤝 Peer programming and collaborative problem-solving
-- 📚 Mastered algorithms, data structures, and system design
-
-**Core Skills:** `Full-Stack Development` `System Design` `Algorithms` `Team Collaboration`
 
 ---
 
