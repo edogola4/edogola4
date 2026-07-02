@@ -1,0 +1,216 @@
+<svg viewBox="0 0 1200 1400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1400" fill="#0d1117"/>
+  
+  <!-- Title -->
+  <text x="600" y="50" font-size="48" font-weight="bold" text-anchor="middle" fill="#58a6ff" font-family="Arial, sans-serif">
+    Tech Stack
+  </text>
+  
+  <!-- LANGUAGES Section -->
+  <text x="30" y="120" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    LANGUAGES
+  </text>
+  
+  <!-- Language badges row 1 -->
+  <rect x="30" y="140" width="160" height="50" rx="8" fill="#1f6feb" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">C#</text>
+  
+  <rect x="210" y="140" width="160" height="50" rx="8" fill="#3178c6" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">TypeScript</text>
+  
+  <rect x="390" y="140" width="160" height="50" rx="8" fill="#f7df1e" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" font-family="Arial, sans-serif">JavaScript</text>
+  
+  <rect x="570" y="140" width="160" height="50" rx="8" fill="#3776ab" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Python</text>
+  
+  <rect x="750" y="140" width="160" height="50" rx="8" fill="#4479a1" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">SQL</text>
+  
+  <rect x="930" y="140" width="160" height="50" rx="8" fill="#a8b9cc" stroke="#30363d" stroke-width="1"/>
+  <text x="1010" y="172" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" font-family="Arial, sans-serif">C</text>
+  
+  <!-- BACKEND Section -->
+  <text x="30" y="260" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    BACKEND
+  </text>
+  
+  <!-- Backend badges row 1 -->
+  <rect x="30" y="280" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="312" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">ASP.NET</text>
+  
+  <rect x="210" y="280" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="312" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">.NET 10</text>
+  
+  <rect x="390" y="280" width="160" height="50" rx="8" fill="#339933" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="312" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Node.js</text>
+  
+  <rect x="570" y="280" width="160" height="50" rx="8" fill="#000" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="312" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Fastify</text>
+  
+  <rect x="750" y="280" width="160" height="50" rx="8" fill="#000" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="312" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Express</text>
+  
+  <rect x="930" y="280" width="160" height="50" rx="8" fill="#000" stroke="#30363d" stroke-width="1"/>
+  <text x="1010" y="312" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Flask</text>
+  
+  <!-- Backend row 2 -->
+  <rect x="30" y="350" width="160" height="50" rx="8" fill="#009688" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="382" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">FastAPI</text>
+  
+  <rect x="210" y="350" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="382" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">EF Core</text>
+  
+  <rect x="390" y="350" width="160" height="50" rx="8" fill="#2d3748" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="382" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Prisma</text>
+  
+  <rect x="570" y="350" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="382" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">SignalR</text>
+  
+  <!-- FRONTEND Section -->
+  <text x="30" y="480" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    FRONTEND
+  </text>
+  
+  <!-- Frontend badges -->
+  <rect x="30" y="500" width="160" height="50" rx="8" fill="#000" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="532" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Next.js 14</text>
+  
+  <rect x="210" y="500" width="160" height="50" rx="8" fill="#61dafb" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="532" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" font-family="Arial, sans-serif">React</text>
+  
+  <rect x="390" y="500" width="160" height="50" rx="8" fill="#dd0031" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="532" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Angular</text>
+  
+  <rect x="570" y="500" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="532" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Blazor</text>
+  
+  <rect x="750" y="500" width="160" height="50" rx="8" fill="#06b6d4" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="532" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" font-family="Arial, sans-serif">Tailwind</text>
+  
+  <rect x="930" y="500" width="160" height="50" rx="8" fill="#764abc" stroke="#30363d" stroke-width="1"/>
+  <text x="1010" y="532" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Redux</text>
+  
+  <!-- DATABASES Section -->
+  <text x="30" y="620" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    DATABASES
+  </text>
+  
+  <!-- Database badges -->
+  <rect x="30" y="640" width="160" height="50" rx="8" fill="#4169e1" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="672" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">PostgreSQL</text>
+  
+  <rect x="210" y="640" width="160" height="50" rx="8" fill="#4169e1" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="672" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">pgvector</text>
+  
+  <rect x="390" y="640" width="160" height="50" rx="8" fill="#cc2927" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="672" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">SQL Server</text>
+  
+  <rect x="570" y="640" width="160" height="50" rx="8" fill="#4479a1" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="672" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">MySQL</text>
+  
+  <rect x="750" y="640" width="160" height="50" rx="8" fill="#47a248" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="672" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">MongoDB</text>
+  
+  <rect x="930" y="640" width="160" height="50" rx="8" fill="#dc382d" stroke="#30363d" stroke-width="1"/>
+  <text x="1010" y="672" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Redis</text>
+  
+  <!-- AI & INTEGRATIONS Section -->
+  <text x="30" y="800" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    AI & INTEGRATIONS
+  </text>
+  
+  <!-- AI badges row 1 -->
+  <rect x="30" y="820" width="160" height="50" rx="8" fill="#d97757" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="852" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Claude API</text>
+  
+  <rect x="210" y="820" width="160" height="50" rx="8" fill="#412991" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="852" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">OpenAI</text>
+  
+  <rect x="390" y="820" width="160" height="50" rx="8" fill="#00a859" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="852" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">M-Pesa</text>
+  
+  <rect x="570" y="820" width="160" height="50" rx="8" fill="#1565c0" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="852" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Pesapal</text>
+  
+  <rect x="750" y="820" width="160" height="50" rx="8" fill="#25d366" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="852" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" font-family="Arial, sans-serif">WhatsApp</text>
+  
+  <rect x="930" y="820" width="160" height="50" rx="8" fill="#ff6b00" stroke="#30363d" stroke-width="1"/>
+  <text x="1010" y="852" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Africa's Talk</text>
+  
+  <!-- AI row 2 -->
+  <rect x="30" y="890" width="160" height="50" rx="8" fill="#96bf48" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="922" font-size="14" font-weight="bold" text-anchor="middle" fill="#000" font-family="Arial, sans-serif">Shopify</text>
+  
+  <rect x="210" y="890" width="160" height="50" rx="8" fill="#0078d4" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="922" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Azure AI</text>
+  
+  <rect x="390" y="890" width="160" height="50" rx="8" fill="#ff6f00" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="922" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">TensorFlow</text>
+  
+  <rect x="570" y="890" width="160" height="50" rx="8" fill="#4a90e2" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="922" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">RAG</text>
+  
+  <!-- CLOUD & DEVOPS Section -->
+  <text x="30" y="1020" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    CLOUD & DEVOPS
+  </text>
+  
+  <!-- Cloud badges -->
+  <rect x="30" y="1040" width="160" height="50" rx="8" fill="#0078d4" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="1072" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Azure</text>
+  
+  <rect x="210" y="1040" width="160" height="50" rx="8" fill="#232f3e" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="1072" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">AWS</text>
+  
+  <rect x="390" y="1040" width="160" height="50" rx="8" fill="#2496ed" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="1072" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Docker</text>
+  
+  <rect x="570" y="1040" width="160" height="50" rx="8" fill="#326ce5" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="1072" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Kubernetes</text>
+  
+  <rect x="750" y="1040" width="160" height="50" rx="8" fill="#7b42bc" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="1072" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Terraform</text>
+  
+  <rect x="930" y="1040" width="160" height="50" rx="8" fill="#2088ff" stroke="#30363d" stroke-width="1"/>
+  <text x="1010" y="1072" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">GitHub Actions</text>
+  
+  <!-- PRACTICES Section -->
+  <text x="30" y="1160" font-size="18" font-weight="bold" fill="#79c0ff" font-family="Arial, sans-serif">
+    PRACTICES & PATTERNS
+  </text>
+  
+  <!-- Practices badges row 1 -->
+  <rect x="30" y="1180" width="160" height="50" rx="8" fill="#007acc" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="1212" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">TDD</text>
+  
+  <rect x="210" y="1180" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="1212" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">xUnit</text>
+  
+  <rect x="390" y="1180" width="160" height="50" rx="8" fill="#c21325" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="1212" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Jest</text>
+  
+  <rect x="570" y="1180" width="160" height="50" rx="8" fill="#0a9edc" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="1212" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">pytest</text>
+  
+  <rect x="750" y="1180" width="160" height="50" rx="8" fill="#cb2029" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="1212" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">SonarQube</text>
+  
+  <!-- Practices row 2 -->
+  <rect x="30" y="1250" width="160" height="50" rx="8" fill="#4a90e2" stroke="#30363d" stroke-width="1"/>
+  <text x="110" y="1282" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Clean Arch</text>
+  
+  <rect x="210" y="1250" width="160" height="50" rx="8" fill="#512bd4" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="1282" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">SOLID</text>
+  
+  <rect x="390" y="1250" width="160" height="50" rx="8" fill="#007acc" stroke="#30363d" stroke-width="1"/>
+  <text x="470" y="1282" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">Microservices</text>
+  
+  <rect x="570" y="1250" width="160" height="50" rx="8" fill="#4a90e2" stroke="#30363d" stroke-width="1"/>
+  <text x="650" y="1282" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">CQRS</text>
+  
+  <rect x="750" y="1250" width="160" height="50" rx="8" fill="#007acc" stroke="#30363d" stroke-width="1"/>
+  <text x="830" y="1282" font-size="14" font-weight="bold" text-anchor="middle" fill="#c9d1d9" font-family="Arial, sans-serif">DDD</text>
+</svg>
