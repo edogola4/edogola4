@@ -321,52 +321,15 @@ Containerized microservices application with automated testing, deployment pipel
 
 ---
 
-## 🎯 2026 Goals & Roadmap
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=ff6e96&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Contributing+to+Open+Source;Building+Production+Applications;Mastering+Cloud-Native+Architecture;Sharing+Knowledge+%26+Mentoring" alt="2026 Goals"/>
-</div>
-
-### 🌟 Technical Growth
-- [ ] 🚀 **Open Source:** Contribute to **5+ AI/ML open-source projects**
-- [ ] 💼 **.NET Mastery:** Complete advanced Blazor and ASP.NET Core certifications
-- [ ] ☁️ **Cloud Expertise:** Achieve **AWS Solutions Architect** or **Azure Developer** certification
-- [ ] 🤖 **AI/ML:** Build production-grade AI applications with Azure OpenAI
-
-### 💻 Project Milestones
-- [ ] 🏥 Launch **SmartSchedule Healthcare MVP** with 10 beta customers (Q2 2026)
-- [ ] 🌐 Deploy **3 production-ready full-stack applications**
-- [ ] 📊 Build a **real-time analytics dashboard** with modern data visualization
-- [ ] 🔐 Implement **enterprise-grade security patterns** in personal projects
-
-### 🤝 Community Impact
-- [ ] 📝 Publish **12+ technical blog posts** on .NET, Blazor, and AI/ML
-- [ ] 🎤 Deliver **2+ tech talks** at local meetups or conferences
-- [ ] 👥 Mentor **5+ junior developers** in the Nairobi tech community
-- [ ] 🌍 Organize **monthly coding sessions** for aspiring developers
-
----
-
 ## 📫 Open to Opportunities
 
-I'm actively seeking:
-- **Junior/Mid-level Software Engineering positions**
-- **Full-stack development roles** (TypeScript, React, Node.js, .NET)
-- **AI/ML integration projects**
-- **Remote or Nairobi-based opportunities**
-- **Collaborative startup environments**
+Actively seeking full-stack, backend, or AI/ML engineering roles — Nairobi-based or remote.
 
-**What I bring:**
-- 2+ years of hands-on software engineering experience
-- Strong full-stack foundation with modern frameworks
-- Proven ability to deliver measurable results (20% efficiency gains, 25% engagement increases)
-- Quick learner with a demonstrated growth mindset
-- Experience with Agile methodologies and team collaboration
-- Passion for building impactful, user-centric applications
+**Stack:** TypeScript · React/Next.js · Node.js · C#/.NET · Python · PostgreSQL · Docker · Azure/AWS
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:edogola4@gmail.com">
@@ -384,18 +347,6 @@ I'm actively seeking:
   <a href="https://github.com/edogola4">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4A90E2&size=22&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Open+to+new+opportunities+and+collaborations" alt="Closing"/>
-</div>
-
----
-
-<div align="center">
-  <i>⚡ "The best way to predict the future is to create it." — Peter Drucker</i>
 </div>
 
 <br>
