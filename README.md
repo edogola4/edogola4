@@ -104,13 +104,6 @@ Previously shipped production work at **Cognativ Technology Limited**. Currently
 
 
 
----
-
-## 📫 Open to Opportunities
-
-Actively seeking full-stack, backend, or AI/ML engineering roles — Nairobi-based or remote.
-
-**Stack:** TypeScript · React/Next.js · Node.js · C#/.NET · Python · PostgreSQL · Docker · Azure/AWS
 
 ---
 
