@@ -65,46 +65,82 @@ Previously shipped production work at **Cognativ Technology Limited**. Currently
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff6e96&text_color=f8f8f2&bg_color=282a36"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogola4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=ff6e96&text_color=f8f8f2&bg_color=282a36"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=edogola4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&icon_color=FF6E96&title_color=FF6E96"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edogola4&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6E96"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edogola4&theme=tokyonight&hide_border=true&background=282a36&stroke=ff6e96&ring=ff6e96&fire=ff6e96&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=ff6e96&sideLabels=ff6e96&dates=f8f8f2" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=edogola4&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edogola4&theme=tokyo-night&hide_border=true&bg_color=282a36&color=ff6e96&line=ff6e96&point=f8f8f2&area_color=ff6e96&area=true" alt="Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edogola4&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/edogola4/edogola4/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌊 Pacman Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/edogola4/edogola4/output/pacman-contribution-graph-dark.svg"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Sky
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edogola4&theme=tokyonight"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edogola4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edogola4&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edogola4&theme=tokyonight&utc_offset=3"/>
+
 </div>
 
-## 📈 Contribution Activity
+---
+
+# 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edogola4&theme=tokyonight" alt="Profile Summary"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=edogola4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+
 </div>
+
+---
+
+# 👀 Visitors
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edogola4&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edogola4&theme=tokyonight" alt="Most Commit Language"/>
+
+<img src="https://komarev.com/ghpvc/?username=edogola4&style=for-the-badge&color=ff6e96"/>
+
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edogola4&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edogola4&theme=tokyonight&utc_offset=3" alt="Productive Time"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=edogola4&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Time&langs_count=8" alt="Coding Time Stats"/>
-</div>
-
-
-
-
-
 ---
 
 ## 🤝 Let's Connect
