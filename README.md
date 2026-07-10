@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bran Don
+# 👋 Hello, I'm Bran Don 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4A90E2&size=24&center=true&vCenter=true&width=720&height=50&lines=Founder%2C+SmartSchedule+Healthcare;Full-Stack+Engineer+-+.NET%2C+React%2C+Node.js;Based+in+Nairobi%2C+Kenya" alt="Typing animation" />
