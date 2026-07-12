@@ -44,7 +44,7 @@ Also: Freelance scoping and building digital solutions for community-based organ
 
 **[brandonogola.dev](https://brandonogola.dev/)** · Portfolio & articles  
 **[GitHub](https://github.com/edogola4)** · Code  
-**[LinkedIn](https://www.linkedin.com/in/brandon-edwin-ogola-b77063232/)** · Professional  
+**[LinkedIn](https://www.linkedin.com/in/brandon-ogola/)** · Professional  
 **[X](https://x.com/BrandonOgola)** · Thoughts  
 **Email:** edogola4@gmail.com
 
