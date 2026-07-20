@@ -1,4 +1,4 @@
-# Brandon Ogola 
+# Brandon Ogola
 
 Full-stack software engineer & founder building enterprise SaaS and community-focused software in Nairobi, Kenya.
 
