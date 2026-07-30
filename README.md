@@ -50,4 +50,3 @@ Also: Freelance scoping and building digital solutions for community-based organ
 
 ---
 
-*Background: Software Engineer at Cognativ Technology Limited (built SmartSaaS enterprise cloud platform); trained at ALX Africa and Moringa School.*
