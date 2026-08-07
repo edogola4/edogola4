@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bran Don
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=4A90E2&size=24&center=true&vCenter=true&width=720&height=50&lines=Founder%2C+SmartSchedule+Healthcare;Full-Stack+Engineer+-+.NET%2C+React%2C+Node.js;Based+in+Nairobi%2C+Kenya" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=850&lines=Software+Engineer+%7C+Founder+%26+Builder;Building+Production-Grade+SaaS+%26+Cloud+Systems;AI+%26+LLM+Integration+Enthusiast;Designing+Scalable+Cloud-Native+Architectures;Building+with+.NET%2C+React%2C+TypeScript+%26+Python;Turning+Complex+Problems+Into+Practical+Software;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=edogola4&style=flat-square&color=blue" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/edogola4?label=Followers&style=social" alt="GitHub Followers"/>
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=400&height=30&lines=📍+Based+in+Nairobi%2C+Kenya+🇰🇪;🌍+Building+for+the+world;💡+Innovation+hub+of+East+Africa" alt="Location"/>
+
 
 [![committers.top badge](https://user-badge.committers.top/kenya/edogola4.svg)](https://user-badge.committers.top/kenya/edogola4)
 
