@@ -75,7 +75,6 @@ Also: Freelance scoping and building digital solutions for community-based organ
 </div>
 
 ---
----
 
 ## Find Me
 
