@@ -68,6 +68,13 @@ Also: Freelance scoping and building digital solutions for community-based organ
 **Infrastructure:** Azure, AWS, Docker, GitHub Actions  
 **AI/APIs:** Anthropic Claude, OpenAI embeddings, M-Pesa Daraja, Pesapal  
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,python,django,react,ts,nextjs,postgres,mongodb,azure,aws,docker,githubactions,git" alt="Technology stack" />
+
+</div>
+
+---
 ---
 
 ## Find Me
