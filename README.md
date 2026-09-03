@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Bran Don 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=850&lines=Software+Engineer+%7C+Founder+%26+Builder;Building+Production-Grade+SaaS+%26+Cloud+Systems;AI+%26+LLM+Integration+Enthusiast;Designing+Scalable+Cloud-Native+Architectures;Building+with+.NET%2C+React%2C+TypeScript+%26+Python;Turning+Complex+Problems+Into+Practical+Software;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=850&lines=Software+Engineer+%7C+Founder+%26+Builder;Building+Production-Grade+SaaS+%26+Cloud+Systems;Engineering+Secure+Authentication+%26+Identity+Systems;AI+%26+LLM+Integration+Enthusiast;Designing+Scalable+Cloud-Native+Architectures;Building+with+.NET%2C+React%2C+TypeScript+%26+Python;Turning+Complex+Problems+Into+Practical+Software;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 Full-stack software engineer & founder building enterprise SaaS and community-focused software in Nairobi, Kenya.
 
-Currently: **SmartSchedule Healthcare** — a HIPAA-compliant healthcare scheduling platform powered by AI, built on .NET 10, Azure, and ML.NET.
+Currently: **SmartSchedule Healthcare** — a HIPAA-compliant healthcare scheduling platform powered by AI, built on .NET 10, Azure, and ML.NET. Also building **Auth Sonoma** — a production-grade authentication reference platform (JWT/refresh-token lifecycle, password recovery, rate limiting, audit logging).
 
 Also: Freelance scoping and building digital solutions for community-based organizations (CBOs) across Kenya.
 
@@ -42,13 +42,19 @@ Also: Freelance scoping and building digital solutions for community-based organ
 
 **SmartSchedule Healthcare** · AI-powered healthcare provider scheduling SaaS with HIPAA compliance. .NET 10, Azure, ML.NET, Blazor. (Private repository)
 
+**Auth Sonoma** · Production-grade authentication reference system built as a pnpm-workspace monorepo. JWT-based auth with refresh-token rotation, password-reset and email-verification flows, rate limiting and security audit logging; full OpenAPI 3.1 spec and Playwright end-to-end test coverage. React, Vite, Express, Prisma, PostgreSQL. (Private repository)
+
 **[Riggs London Kenya](https://github.com/edogola4/Riggs-London-Kenya)** · Full-stack e-commerce monorepo with multi-payment gateway integration (M-Pesa STK Push, Pesapal), AI chatbot, and Africa's Talking for SMS. React, Node.js, PostgreSQL.
 
 **[ChamaBot](https://github.com/edogola4/chama-whatsapp-bot)** · WhatsApp-native savings group automation in active development. Event-sourced Postgres data model, Claude Haiku for natural language processing, Twilio for messaging.
 
+**[Kenya Civic Info Bot](https://brandonogola.dev/projects/civic-info-bot)** · RAG-powered civic education chatbot answering questions on Kenya's Constitution and county government using Claude API, OpenAI embeddings, and pgvector on Neon. Next.js 14. (Live)
+
 ---
 
 ## Core Capabilities
+
+**Security & Identity Engineering:** JWT and refresh-token lifecycle management, secure session handling, password recovery and email verification flows, rate limiting and abuse prevention, security audit logging.
 
 **Payment Systems:** M-Pesa Daraja, Pesapal — production integration experience across fintech and e-commerce projects.
 
@@ -56,21 +62,23 @@ Also: Freelance scoping and building digital solutions for community-based organ
 
 **Enterprise Healthcare:** FHIR/HL7 integration patterns, HIPAA-compliant architecture design, .NET-based health tech systems.
 
-**Full-Stack Delivery:** API design, database optimization, cloud infrastructure (Azure, AWS), CI/CD automation (GitHub Actions).
+**Full-Stack Delivery:** API design and documentation (RESTful, OpenAPI 3.1), database optimization, monorepo architecture (Turborepo, pnpm workspaces), cloud infrastructure (Azure, AWS), CI/CD automation, and automated testing (unit, integration, Playwright E2E).
 
 ---
 
 ## Tech & Tools
 
-**Backend:** C#, ASP.NET Core, .NET, Node.js, NestJS, Django/Python  
-**Frontend:** React, TypeScript, Next.js  
-**Database:** PostgreSQL, SQL Server, MongoDB  
-**Infrastructure:** Azure, AWS, Docker, GitHub Actions  
+**Backend:** C#, ASP.NET Core, .NET, Node.js, NestJS, Django/Python, Express, Prisma  
+**Frontend:** React, TypeScript, Next.js, Vite, Tailwind CSS  
+**Database:** PostgreSQL, SQL Server, MongoDB, Redis  
+**Security:** JWT & Session Management, Rate Limiting, Audit Logging  
+**Testing:** Playwright (E2E), xUnit, Jest, pytest  
+**Infrastructure:** Azure, AWS, Docker, GitHub Actions, Turborepo & pnpm Workspaces  
 **AI/APIs:** Anthropic Claude, OpenAI embeddings, M-Pesa Daraja, Pesapal  
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,python,django,react,ts,nextjs,postgres,mongodb,azure,aws,docker,githubactions,git" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,python,django,react,ts,nextjs,vite,tailwind,prisma,postgres,mongodb,redis,azure,aws,docker,githubactions,pnpm,jest,git" alt="Technology stack" />
 
 </div>
 
@@ -85,4 +93,3 @@ Also: Freelance scoping and building digital solutions for community-based organ
 **Email:** edogola4@gmail.com
 
 ---
-
